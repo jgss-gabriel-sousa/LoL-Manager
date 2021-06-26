@@ -1,0 +1,164 @@
+<<
+Lane's:
+-top
+-jg
+-mid
+-adc
+-sup
+-coach
+
+Vencer Mundial: 50
+Ganhar MSI: 30
+Playoffs Mundial: 30
+Ganhar Regional Major: 20
+Participar Mundial: 15
+Ganhar Regional Minor: 10
+Playoff Regional Major: 7
+Participar Regional Major: 5
+Playoff Regional Minor: 4
+Participar Regional Minor: 2
+
+Titulos podem ser repetidos mas tem valor somado novamente pela metade
+
+Cada 50 games profissionais +1
+(Coach) Cada ano +5
+>>
+
+#Name;Age;Nationality;Lane;Skill;Experience;Fan Base;			English
+
+#Name;99;us;mid;99;99;999;
+#;;;;;;;
+
+#CBLOL
+#Pain
+Xero;31;KR;coach;45;15;4;
+Dionrray;;BR;coach;40;21;12;
+Yang;23;BR;top;45;47;152;
+SeongHwan;22;KR;jg;40;12;20;
+tinowns;22;BR;mid;45;35;154;
+brTT;28;BR;adc;50;52;927;
+Key;22;KR;sup;40;12;0;
+Kami;23;BR;mid;35;38;535;
+Mestre;22;BR;adc;20;0;16;
+Dioud;29;FR;sup;35;47;303;
+
+#Flamengo
+Ranger;24;BR;jg;50;41;63;
+Goku;23;BR;mid;40;34;78;
+Woofe;;KR;top;45;1;0;
+Absolut;;BR;adc;40;32;38;
+Luci;;KR;sup;50;41;35;
+Vvert;21;BR;top;35;34;29;
+wyLL;;BR;jg;30;0;2;
+Aslan;;BR;mid;35;7;2;
+JoJo;21;BR;sup;35;3;8;
+Djoko;;BR;coach;40;31;69;
+Stardust;29;KR;coach;40;16;10;
+Reven;26;KR;coach;50;26;106;
+
+#Keyd
+Robo;22;BR;top;50;41;151;
+Grell;;MX;jg;40;4;11;
+Caos;23;BR;jg;35;5;19;
+NOsFerus;20;BR;mid;45;7;18;
+Atlanta;22;BR;mid;30;1;2;
+Klaus;23;BR;adc;45;8;27;
+Drop;20;BR;adc;30;0;4;
+Professor;24;BR;sup;45;11;47;
+Turtle;25;BR;coach;40;14;71;
+BeellzY;26;BR;coach;35;11;1;
+
+#INTZ
+Tay;;BR;top;50;35;110;
+Shini;23;BR;jg;40;35;38;
+Envy;21;BR;mid;50;34;36;
+micaO;23;BR;adc;40;47;168;
+Jockster;23;BR;sup;35;47;118;
+Tianci;21;CN;top;45;6;4;
+Mills;23;BR;adc;40;33;9;
+Zuao;22;BR;jg;40;10;29;
+Mayumi;17;BR;sup;30;0;138;
+RedBert;;BR;sup;45;10;50;
+Hauz;19;BR;mid;30;2;6;
+Aoshi;26;BR;top;30;10;14;
+Ace;;BR;jg;25;0;8;
+Yatsu;;BR;mid;25;0;6;
+Maestro;;BR;coach;50;46;7;
+ONMETA;;BR;coach;40;31;1;
+jUc;;BR;coach;40;21;26;
+
+#Kabum
+Parang;;KR;top;50;16;10;
+Wiz;22;KR;jg;45;9;2;
+Tutsz;;BR;mid;40;0;5;
+DudsTheBoy;24;BR;adc;45;10;30;
+Ceos;21;BR;sup;45;10;9;
+Bankai;;BR;top;25;0;3;
+Mousty;;BR;jg;25;0;0;
+Disave;;BR;adc;30;2;3;
+ProDelta;18;BR;sup;30;0;1;
+Kake;21;BR;coach;35;12;1;
+Abaxial;30;US;coach;45;56;19;
+
+#Furia
+Fitz;;BR;top;40;10;7;
+Tyrin;18;BR;top;35;0;4;
+Minerva;;BR;jg;40;36;149;
+Sting;18;BR;jg;35;0;0;
+Anyyy;20;BR;mid;50;9;23;
+Alternative;;PT;adc;45;8;9;
+Damage;22;BR;sup;45;8;11;
+Stepz;;BR;adc;30;0;0;
+ScrappyDoo;;ES;coach;40;26;8;
+Piroxz;;BR;coach;40;55;7;
+
+#Prodigy
+fNb;20;BR;top;50;8;23;
+Yampi;22;BR;jg;45;9;15;
+Aloned;20;CL;mid;40;8;4;
+Garo;;BR;adc;40;4;2;
+Wos;;BR;sup;45;11;43;
+maszca;;BR;sup;20;0;0;
+Kalec;26;BR;coach;35;17;22;
+Alocs;30;BR;coach;35;18;67;
+
+#Redemption
+Nyu;25;BR;top;40;;10;
+Sephis;22;BR;jg;30;;1;
+BalKhan;;KR;jg;45;;1;
+Krastyel;21;BR;mid;45;;23;
+Patrick;22;KR;adc;50;;18;
+BocaJR;22;BR;sup;40;;9;
+Glowcore;;BR;top;20;;;
+Riva;21;BR;mid;20;;;
+Aithusa;;BR;mid;20;;;
+Scuro;;BR;sup;20;;;
+Von;;BR;coach;50;;;
+Nishikino;;BR;coach;25;;;
+
+#Red Canids
+Ayel;22;BR;top;40;9;91;
+
+
+##################################################################################
+########## LCS
+#100 Thieves
+Ssumday;23;KR;top;70;41;135;
+Meteos;26;US;jg;65;68;356;
+Ryoma;20;AU;mid;60;21;6;
+Cody Sun;23;CA;adc;65;43;36;
+Stunt;24;US;sup;65;32;14;
+Zikz;26;US;coach;70;40;39;
+JungleJuice;;US;coach;50;20;2;
+<<
+FakeGod;;BR;top;70;;;
+Contractz;;BR;top;70;;;
+Soligo;;BR;top;70;;;
+Prismal;;BR;top;70;;;
+Breezyy;;BR;top;70;;;
+>>
+
+#Cloud9
+
+
+#Reserved to Editor

@@ -1,0 +1,2749 @@
+Sun May 24 23:09:22 2020
+
+"Splash Background" Loaded to Asset Manager from: "resources/textures/Splash Background.png"
+"Splash Background" request: Returned
+"Game Title" Loaded to Asset Manager from: "resources/textures/game title.png"
+"button" Loaded to Asset Manager from: "resources/textures/button.png"
+Font Loaded to Asset Manager with tag: "Arial" from: "resources/fonts/arial.ttf"
+Font Loaded to Asset Manager with tag: "Marker Felt" from: "resources/fonts/Marker Felt.ttf"
+"Game Title" request: Returned
+"button" request: Returned
+"button" request: Returned
+"button" request: Returned
+"button" request: Returned
+	 Loading State
+"Loading Bar" Loaded to Asset Manager from: "resources/textures/Loading Bar.png"
+"Detail Rect" Loaded to Asset Manager from: "resources/textures/Detail Rect.png"
+Font Loaded to Asset Manager with tag: "Arial" from: "resources/fonts/arial.ttf"
+"Loading Bar" request: Returned
+"Detail Rect" request: Returned
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Loading Player: 
+Name: Xero
+Age: 31
+Nationality: KR
+Lane: coach
+Skill: 45
+Experience: 15
+Fan Base: 4
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Dionrray
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: coach
+Skill: 40
+Experience: 21
+Fan Base: 12
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Yang
+Age: 23
+Nationality: BR
+Lane: top
+Skill: 45
+Experience: 47
+Fan Base: 152
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: SeongHwan
+Age: 22
+Nationality: KR
+Lane: jg
+Skill: 40
+Experience: 12
+Fan Base: 20
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: tinowns
+Age: 22
+Nationality: BR
+Lane: mid
+Skill: 45
+Experience: 35
+Fan Base: 154
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: brTT
+Age: 28
+Nationality: BR
+Lane: adc
+Skill: 50
+Experience: 52
+Fan Base: 927
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Key
+Age: 22
+Nationality: KR
+Lane: sup
+Skill: 40
+Experience: 12
+Fan Base: 0
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Kami
+Age: 23
+Nationality: BR
+Lane: mid
+Skill: 35
+Experience: 38
+Fan Base: 535
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Mestre
+Age: 22
+Nationality: BR
+Lane: adc
+Skill: 20
+Experience: 0
+Fan Base: 16
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Dioud
+Age: 29
+Nationality: FR
+Lane: sup
+Skill: 35
+Experience: 47
+Fan Base: 303
+------------------
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Loading Player: 
+Name: Ranger
+Age: 24
+Nationality: BR
+Lane: jg
+Skill: 50
+Experience: 41
+Fan Base: 63
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Goku
+Age: 23
+Nationality: BR
+Lane: mid
+Skill: 40
+Experience: 34
+Fan Base: 78
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Woofe
+Age: INVALID (Using Default value of 25
+Nationality: KR
+Lane: top
+Skill: 45
+Experience: 1
+Fan Base: 0
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Absolut
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: adc
+Skill: 40
+Experience: 32
+Fan Base: 38
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Luci
+Age: INVALID (Using Default value of 25
+Nationality: KR
+Lane: sup
+Skill: 50
+Experience: 41
+Fan Base: 35
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Vvert
+Age: 21
+Nationality: BR
+Lane: top
+Skill: 35
+Experience: 34
+Fan Base: 29
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: wyLL
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: jg
+Skill: 30
+Experience: 0
+Fan Base: 2
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Aslan
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: mid
+Skill: 35
+Experience: 7
+Fan Base: 2
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: JoJo
+Age: 21
+Nationality: BR
+Lane: sup
+Skill: 35
+Experience: 3
+Fan Base: 8
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Djoko
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: coach
+Skill: 40
+Experience: 31
+Fan Base: 69
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Stardust
+Age: 29
+Nationality: KR
+Lane: coach
+Skill: 40
+Experience: 16
+Fan Base: 10
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Reven
+Age: 26
+Nationality: KR
+Lane: coach
+Skill: 50
+Experience: 26
+Fan Base: 106
+------------------
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Loading Player: 
+Name: Robo
+Age: 22
+Nationality: BR
+Lane: top
+Skill: 50
+Experience: 41
+Fan Base: 151
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Grell
+Age: INVALID (Using Default value of 25
+Nationality: MX
+Lane: jg
+Skill: 40
+Experience: 4
+Fan Base: 11
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Caos
+Age: 23
+Nationality: BR
+Lane: jg
+Skill: 35
+Experience: 5
+Fan Base: 19
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: NOsFerus
+Age: 20
+Nationality: BR
+Lane: mid
+Skill: 45
+Experience: 7
+Fan Base: 18
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Atlanta
+Age: 22
+Nationality: BR
+Lane: mid
+Skill: 30
+Experience: 1
+Fan Base: 2
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Klaus
+Age: 23
+Nationality: BR
+Lane: adc
+Skill: 45
+Experience: 8
+Fan Base: 27
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Drop
+Age: 20
+Nationality: BR
+Lane: adc
+Skill: 30
+Experience: 0
+Fan Base: 4
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Professor
+Age: 24
+Nationality: BR
+Lane: sup
+Skill: 45
+Experience: 11
+Fan Base: 47
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Turtle
+Age: 25
+Nationality: BR
+Lane: coach
+Skill: 40
+Experience: 14
+Fan Base: 71
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: BeellzY
+Age: 26
+Nationality: BR
+Lane: coach
+Skill: 35
+Experience: 11
+Fan Base: 1
+------------------
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Loading Player: 
+Name: Tay
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: top
+Skill: 50
+Experience: 35
+Fan Base: 110
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Shini
+Age: 23
+Nationality: BR
+Lane: jg
+Skill: 40
+Experience: 35
+Fan Base: 38
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Envy
+Age: 21
+Nationality: BR
+Lane: mid
+Skill: 50
+Experience: 34
+Fan Base: 36
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: micaO
+Age: 23
+Nationality: BR
+Lane: adc
+Skill: 40
+Experience: 47
+Fan Base: 168
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Jockster
+Age: 23
+Nationality: BR
+Lane: sup
+Skill: 35
+Experience: 47
+Fan Base: 118
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Tianci
+Age: 21
+Nationality: CN
+Lane: top
+Skill: 45
+Experience: 6
+Fan Base: 4
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Mills
+Age: 23
+Nationality: BR
+Lane: adc
+Skill: 40
+Experience: 33
+Fan Base: 9
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Zuao
+Age: 22
+Nationality: BR
+Lane: jg
+Skill: 40
+Experience: 10
+Fan Base: 29
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Mayumi
+Age: 17
+Nationality: BR
+Lane: sup
+Skill: 30
+Experience: 0
+Fan Base: 138
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: RedBert
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: sup
+Skill: 45
+Experience: 10
+Fan Base: 50
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Hauz
+Age: 19
+Nationality: BR
+Lane: mid
+Skill: 30
+Experience: 2
+Fan Base: 6
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Aoshi
+Age: 26
+Nationality: BR
+Lane: top
+Skill: 30
+Experience: 10
+Fan Base: 14
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Ace
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: jg
+Skill: 25
+Experience: 0
+Fan Base: 8
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Yatsu
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: mid
+Skill: 25
+Experience: 0
+Fan Base: 6
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Maestro
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: coach
+Skill: 50
+Experience: 46
+Fan Base: 7
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: ONMETA
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: coach
+Skill: 40
+Experience: 31
+Fan Base: 1
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: jUc
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: coach
+Skill: 40
+Experience: 21
+Fan Base: 26
+------------------
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Loading Player: 
+Name: Parang
+Age: INVALID (Using Default value of 25
+Nationality: KR
+Lane: top
+Skill: 50
+Experience: 16
+Fan Base: 10
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Wiz
+Age: 22
+Nationality: KR
+Lane: jg
+Skill: 45
+Experience: 9
+Fan Base: 2
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Tutsz
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: mid
+Skill: 40
+Experience: 0
+Fan Base: 5
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: DudsTheBoy
+Age: 24
+Nationality: BR
+Lane: adc
+Skill: 45
+Experience: 10
+Fan Base: 30
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Ceos
+Age: 21
+Nationality: BR
+Lane: sup
+Skill: 45
+Experience: 10
+Fan Base: 9
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Bankai
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: top
+Skill: 25
+Experience: 0
+Fan Base: 3
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Mousty
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: jg
+Skill: 25
+Experience: 0
+Fan Base: 0
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Disave
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: adc
+Skill: 30
+Experience: 2
+Fan Base: 3
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: ProDelta
+Age: 18
+Nationality: BR
+Lane: sup
+Skill: 30
+Experience: 0
+Fan Base: 1
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Kake
+Age: 21
+Nationality: BR
+Lane: coach
+Skill: 35
+Experience: 12
+Fan Base: 1
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Abaxial
+Age: 30
+Nationality: US
+Lane: coach
+Skill: 45
+Experience: 56
+Fan Base: 19
+------------------
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Loading Player: 
+Name: Fitz
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: top
+Skill: 40
+Experience: 10
+Fan Base: 7
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Tyrin
+Age: 18
+Nationality: BR
+Lane: top
+Skill: 35
+Experience: 0
+Fan Base: 4
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Minerva
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: jg
+Skill: 40
+Experience: 36
+Fan Base: 149
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Sting
+Age: 18
+Nationality: BR
+Lane: jg
+Skill: 35
+Experience: 0
+Fan Base: 0
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Anyyy
+Age: 20
+Nationality: BR
+Lane: mid
+Skill: 50
+Experience: 9
+Fan Base: 23
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Alternative
+Age: INVALID (Using Default value of 25
+Nationality: PT
+Lane: adc
+Skill: 45
+Experience: 8
+Fan Base: 9
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Damage
+Age: 22
+Nationality: BR
+Lane: sup
+Skill: 45
+Experience: 8
+Fan Base: 11
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Stepz
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: adc
+Skill: 30
+Experience: 0
+Fan Base: 0
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: ScrappyDoo
+Age: INVALID (Using Default value of 25
+Nationality: ES
+Lane: coach
+Skill: 40
+Experience: 26
+Fan Base: 8
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Piroxz
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: coach
+Skill: 40
+Experience: 55
+Fan Base: 7
+------------------
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Loading Player: 
+Name: fNb
+Age: 20
+Nationality: BR
+Lane: top
+Skill: 50
+Experience: 8
+Fan Base: 23
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Yampi
+Age: 22
+Nationality: BR
+Lane: jg
+Skill: 45
+Experience: 9
+Fan Base: 15
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Aloned
+Age: 20
+Nationality: CL
+Lane: mid
+Skill: 40
+Experience: 8
+Fan Base: 4
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Garo
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: adc
+Skill: 40
+Experience: 4
+Fan Base: 2
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Wos
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: sup
+Skill: 45
+Experience: 11
+Fan Base: 43
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: maszca
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: sup
+Skill: 20
+Experience: 0
+Fan Base: 0
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Kalec
+Age: 26
+Nationality: BR
+Lane: coach
+Skill: 35
+Experience: 17
+Fan Base: 22
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Alocs
+Age: 30
+Nationality: BR
+Lane: coach
+Skill: 35
+Experience: 18
+Fan Base: 67
+------------------
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Loading Player: 
+Name: Nyu
+Age: 25
+Nationality: BR
+Lane: top
+Skill: 40
+Fan Base: 10
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Sephis
+Age: 22
+Nationality: BR
+Lane: jg
+Skill: 30
+Fan Base: 1
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: BalKhan
+Age: INVALID (Using Default value of 25
+Nationality: KR
+Lane: jg
+Skill: 45
+Fan Base: 1
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Krastyel
+Age: 21
+Nationality: BR
+Lane: mid
+Skill: 45
+Fan Base: 23
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Patrick
+Age: 22
+Nationality: KR
+Lane: adc
+Skill: 50
+Fan Base: 18
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: BocaJR
+Age: 22
+Nationality: BR
+Lane: sup
+Skill: 40
+Fan Base: 9
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Glowcore
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: top
+Skill: 20
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Riva
+Age: 21
+Nationality: BR
+Lane: mid
+Skill: 20
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Aithusa
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: mid
+Skill: 20
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Scuro
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: sup
+Skill: 20
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Von
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: coach
+Skill: 50
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Nishikino
+Age: INVALID (Using Default value of 25
+Nationality: BR
+Lane: coach
+Skill: 25
+------------------
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Loading Player: 
+Name: Ayel
+Age: 22
+Nationality: BR
+Lane: top
+Skill: 40
+Experience: 9
+Fan Base: 91
+------------------
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+Loading Player: 
+Name: Ssumday
+Age: 23
+Nationality: KR
+Lane: top
+Skill: 70
+Experience: 41
+Fan Base: 135
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Meteos
+Age: 26
+Nationality: US
+Lane: jg
+Skill: 65
+Experience: 68
+Fan Base: 356
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Ryoma
+Age: 20
+Nationality: AU
+Lane: mid
+Skill: 60
+Experience: 21
+Fan Base: 6
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Cody Sun
+Age: 23
+Nationality: CA
+Lane: adc
+Skill: 65
+Experience: 43
+Fan Base: 36
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Stunt
+Age: 24
+Nationality: US
+Lane: sup
+Skill: 65
+Experience: 32
+Fan Base: 14
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: Zikz
+Age: 26
+Nationality: US
+Lane: coach
+Skill: 70
+Experience: 40
+Fan Base: 39
+------------------
+Database::addPlayerFromFile
+Loading Player: 
+Name: JungleJuice
+Age: INVALID (Using Default value of 25
+Nationality: US
+Lane: coach
+Skill: 50
+Experience: 20
+Fan Base: 2
+------------------
+Database::addPlayerFromFile
+Database::addPlayerFromFile
+98 Players loaded
+LoadingState::LoadTeams
+Database::addTeamFromFile
+###############
+Team Name: Flamengo
+Cash: 800000
+Country: BR
+Coach Staff: Djoko
+Coach Staff: Stardust
+Coach Staff: Reven
+Active: Woofe
+Active: Ranger
+Active: Goku
+Active: Absolut
+Active: Luci
+Substitute: Vvert
+Substitute: wyLL
+Substitute: Aslan
+Substitute: JoJo
+###############
+Team Name: INTZ
+Cash: 800000
+Country: BR
+Coach Staff: Maestro
+Coach Staff: jUc
+Coach Staff: ONMETA
+Active: Tay
+Active: Shini
+Active: Envy
+Active: micaO
+Active: RedBert
+Substitute: Tianci
+Substitute: Zuao
+Substitute: Mills
+Substitute: Mayumi
+Substitute: Jockster
+Loaned: Sephis
+Loaned: BocaJR
+###############
+Team Name: paiN
+Cash: 800000
+Country: BR
+Coach Staff: Xero
+Coach Staff: Dionrray
+Active: Yang
+Active: SeongHwan
+Active: tinowns
+Active: brTT
+Active: Key
+Substitute: Kami
+Substitute: Mestre
+Loaned: Ayel
+Inactive: Dioud
+###############
+Team Name: FURIA Uppercut
+Cash: 600000
+Country: BR
+Coach Staff: ScrappyDoo
+Coach Staff: Piroxz
+Active: Fitz
+Active: Minerva
+Active: Anyyy
+Active: Alternative
+Active: Damage
+Substitute: Tyrin
+Substitute: Sting
+Substitute: Stepz
+###############
+Team Name: KaBuM!
+Cash: 800000
+Country: BR
+Coach Staff: Kake
+Coach Staff: Abaxial
+Active: Parang
+Active: Wiz
+Active: Tutsz
+Active: DudsTheBoy
+Active: Ceos
+Substitute: Disave
+Substitute: ProDelta
+Substitute: Mousty
+Substitute: Bankai
+###############
+Team Name: Prodigy
+Cash: 600000
+Country: BR
+Coach Staff: Kalec
+Coach Staff: Alocs
+Active: fNb
+Active: Yampi
+Active: Aloned
+Active: Garo
+Active: Wos
+Substitute: maszca
+###############
+Team Name: Redemption
+Cash: 600000
+Country: BR
+Coach Staff: Von
+Coach Staff: Nishikino
+Active: Nyu
+Active: BalKhan
+Active: Krastyel
+Active: Patrick
+Active: BocaJR
+Substitute: Glowcore
+Substitute: Scuro
+Substitute: Sephis
+In Loan: Sephis
+In Loan: BocaJR
+###############
+Team Name: Keyd
+Cash: 800000
+Country: BR
+Coach Staff: Turtle
+Coach Staff: BeellzY
+Active: Robo
+Active: Grell
+Active: NOsFerus
+Active: Klaus
+Active: Professor
+Substitute: Caos
+Substitute: Atlanta
+Substitute: Drop
+###############
+Team Name: Falkol
+Cash: 400000
+Country: BR
+Coach Staff: Chawy
+Coach Staff: Politico
+Active: Buggax
+Active: Tierwulf
+Active: Evrot
+Active: Matsukaze
+Active: Riyev
+Substitute: Zen
+Substitute: Sirt
+Substitute: Steal
+Substitute: scamber
+###############
+Team Name: RED Canids
+Cash: 400000
+Country: BR
+Coach Staff: Nuddle
+Coach Staff: Avenger
+Active: Ayel
+Active: Revolta
+Active: Sky
+Active: Titan
+Active: Xabula
+Substitute: Guigo
+Substitute: Grevthar
+Substitute: Trigo
+Substitute: Xabula
+Substitute: Aegis
+Substitute: Woodboy
+Inactive: Sacy
+Inactive: YoDa
+In Loan: Ayel
+###############
+Team Name: 100 Thieves
+Cash: 2000000
+Country: US
+Coach Staff: Zikz
+Coach Staff: JungleJuice
+Active: Ssumday
+Active: Meteos
+Active: Ryoma
+Active: Cody Sun
+Active: Stunt
+Substitute: FakeGod
+Substitute: Contractz
+Substitute: Soligo
+Substitute: Prismal
+Substitute: Breezyy
+LoadingState::LoadLeagues
+Database::addLeagueFromFile
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Flamengo added to CBLOL
+Database::getTeamPtr
+Database::setLeagueOfTeam
+FURIA Uppercut added to CBLOL
+Database::getTeamPtr
+Database::setLeagueOfTeam
+INTZ added to CBLOL
+Database::getTeamPtr
+Database::setLeagueOfTeam
+KaBuM! added to CBLOL
+Database::getTeamPtr
+Database::setLeagueOfTeam
+paiN added to CBLOL
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Prodigy added to CBLOL
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Redemption added to CBLOL
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Keyd added to CBLOL
+CBLOL|		BR|		tier1|		DRRP-4
+----------------------------------
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Falkol added to Circuitao
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Havan Liberty added to Circuitao
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Intergalaxy Tigers added to Circuitao
+Database::getTeamPtr
+Database::setLeagueOfTeam
+RED Canids added to Circuitao
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Santos added to Circuitao
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Team oNe added to Circuitao
+Circuitao|	BR|		tier2|		DRRP-4
+----------------------------------
+Database::getTeamPtr
+Database::setLeagueOfTeam
+100 Thieves added to LCS
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Cloud9 added to LCS
+Database::getTeamPtr
+Database::setLeagueOfTeam
+CLG added to LCS
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Dignitas added to LCS
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Evil Geniuses added to LCS
+Database::getTeamPtr
+Database::setLeagueOfTeam
+FlyQuest added to LCS
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Golden Guardians added to LCS
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Immortals added to LCS
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Team Liquid added to LCS
+Database::getTeamPtr
+Database::setLeagueOfTeam
+Team SoloMid added to LCS
+LCS|		NA|		tier1|		DRRP-6
+----------------------------------
+Database::addCountry = Afghanistan
+Database::addCountryTag = AF = Afghanistan
+"Afghanistan" Loaded to Asset Manager from: "resources/icons/countries/Afghanistan.png"
+Country added: (AF) Afghanistan
+Database::addCountry = Aland Islands
+Database::addCountryTag = AX = Aland Islands
+"Aland Islands" Loaded to Asset Manager from: "resources/icons/countries/Aland Islands.png"
+Country added: (AX) Aland Islands
+Database::addCountry = Albania
+Database::addCountryTag = AL = Albania
+"Albania" Loaded to Asset Manager from: "resources/icons/countries/Albania.png"
+Country added: (AL) Albania
+Database::addCountry = Algeria
+Database::addCountryTag = DZ = Algeria
+"Algeria" Loaded to Asset Manager from: "resources/icons/countries/Algeria.png"
+Country added: (DZ) Algeria
+Database::addCountry = American Samoa
+Database::addCountryTag = AS = American Samoa
+"American Samoa" Loaded to Asset Manager from: "resources/icons/countries/American Samoa.png"
+Country added: (AS) American Samoa
+Database::addCountry = Andorra
+Database::addCountryTag = AD = Andorra
+"Andorra" Loaded to Asset Manager from: "resources/icons/countries/Andorra.png"
+Country added: (AD) Andorra
+Database::addCountry = Angola
+Database::addCountryTag = AO = Angola
+"Angola" Loaded to Asset Manager from: "resources/icons/countries/Angola.png"
+Country added: (AO) Angola
+Database::addCountry = Anguilla
+Database::addCountryTag = AI = Anguilla
+"Anguilla" Loaded to Asset Manager from: "resources/icons/countries/Anguilla.png"
+Country added: (AI) Anguilla
+Database::addCountry = Antarctica
+Database::addCountryTag = AQ = Antarctica
+"Antarctica" Loaded to Asset Manager from: "resources/icons/countries/Antarctica.png"
+Country added: (AQ) Antarctica
+Database::addCountry = Antigua and Barbuda
+Database::addCountryTag = AG = Antigua and Barbuda
+"Antigua and Barbuda" Loaded to Asset Manager from: "resources/icons/countries/Antigua and Barbuda.png"
+Country added: (AG) Antigua and Barbuda
+Database::addCountry = Argentina
+Database::addCountryTag = AR = Argentina
+"Argentina" Loaded to Asset Manager from: "resources/icons/countries/Argentina.png"
+Country added: (AR) Argentina
+Database::addCountry = Armenia
+Database::addCountryTag = AM = Armenia
+"Armenia" Loaded to Asset Manager from: "resources/icons/countries/Armenia.png"
+Country added: (AM) Armenia
+Database::addCountry = Aruba
+Database::addCountryTag = AW = Aruba
+"Aruba" Loaded to Asset Manager from: "resources/icons/countries/Aruba.png"
+Country added: (AW) Aruba
+Database::addCountry = Australia
+Database::addCountryTag = AU = Australia
+"Australia" Loaded to Asset Manager from: "resources/icons/countries/Australia.png"
+Country added: (AU) Australia
+Database::addCountry = Austria
+Database::addCountryTag = AT = Austria
+"Austria" Loaded to Asset Manager from: "resources/icons/countries/Austria.png"
+Country added: (AT) Austria
+Database::addCountry = Azerbaijan
+Database::addCountryTag = AZ = Azerbaijan
+"Azerbaijan" Loaded to Asset Manager from: "resources/icons/countries/Azerbaijan.png"
+Country added: (AZ) Azerbaijan
+Database::addCountry = Bahamas
+Database::addCountryTag = BS = Bahamas
+"Bahamas" Loaded to Asset Manager from: "resources/icons/countries/Bahamas.png"
+Country added: (BS) Bahamas
+Database::addCountry = Bahrain
+Database::addCountryTag = BH = Bahrain
+"Bahrain" Loaded to Asset Manager from: "resources/icons/countries/Bahrain.png"
+Country added: (BH) Bahrain
+Database::addCountry = Bangladesh
+Database::addCountryTag = BD = Bangladesh
+"Bangladesh" Loaded to Asset Manager from: "resources/icons/countries/Bangladesh.png"
+Country added: (BD) Bangladesh
+Database::addCountry = Barbados
+Database::addCountryTag = BB = Barbados
+"Barbados" Loaded to Asset Manager from: "resources/icons/countries/Barbados.png"
+Country added: (BB) Barbados
+Database::addCountry = Belarus
+Database::addCountryTag = BY = Belarus
+"Belarus" Loaded to Asset Manager from: "resources/icons/countries/Belarus.png"
+Country added: (BY) Belarus
+Database::addCountry = Belgium
+Database::addCountryTag = BE = Belgium
+"Belgium" Loaded to Asset Manager from: "resources/icons/countries/Belgium.png"
+Country added: (BE) Belgium
+Database::addCountry = Belize
+Database::addCountryTag = BZ = Belize
+"Belize" Loaded to Asset Manager from: "resources/icons/countries/Belize.png"
+Country added: (BZ) Belize
+Database::addCountry = Benin
+Database::addCountryTag = BJ = Benin
+"Benin" Loaded to Asset Manager from: "resources/icons/countries/Benin.png"
+Country added: (BJ) Benin
+Database::addCountry = Bermuda
+Database::addCountryTag = BM = Bermuda
+"Bermuda" Loaded to Asset Manager from: "resources/icons/countries/Bermuda.png"
+Country added: (BM) Bermuda
+Database::addCountry = Bhutan
+Database::addCountryTag = BT = Bhutan
+"Bhutan" Loaded to Asset Manager from: "resources/icons/countries/Bhutan.png"
+Country added: (BT) Bhutan
+Database::addCountry = Bolivia
+Database::addCountryTag = BO = Bolivia
+"Bolivia" Loaded to Asset Manager from: "resources/icons/countries/Bolivia.png"
+Country added: (BO) Bolivia
+Database::addCountry = Bosnia and Herzegovina
+Database::addCountryTag = BA = Bosnia and Herzegovina
+"Bosnia and Herzegovina" Loaded to Asset Manager from: "resources/icons/countries/Bosnia and Herzegovina.png"
+Country added: (BA) Bosnia and Herzegovina
+Database::addCountry = Botswana
+Database::addCountryTag = BW = Botswana
+"Botswana" Loaded to Asset Manager from: "resources/icons/countries/Botswana.png"
+Country added: (BW) Botswana
+Database::addCountry = Bouvet Island
+Database::addCountryTag = BV = Bouvet Island
+"Bouvet Island" Loaded to Asset Manager from: "resources/icons/countries/Bouvet Island.png"
+Country added: (BV) Bouvet Island
+Database::addCountry = Brazil
+Database::addCountryTag = BR = Brazil
+"Brazil" Loaded to Asset Manager from: "resources/icons/countries/Brazil.png"
+Country added: (BR) Brazil
+Database::addCountry = British Indian Ocean Territory
+Database::addCountryTag = IO = British Indian Ocean Territory
+"British Indian Ocean Territory" Loaded to Asset Manager from: "resources/icons/countries/British Indian Ocean Territory.png"
+Country added: (IO) British Indian Ocean Territory
+Database::addCountry = Brunei Darussalam
+Database::addCountryTag = BN = Brunei Darussalam
+"Brunei Darussalam" Loaded to Asset Manager from: "resources/icons/countries/Brunei Darussalam.png"
+Country added: (BN) Brunei Darussalam
+Database::addCountry = Bulgaria
+Database::addCountryTag = BG = Bulgaria
+"Bulgaria" Loaded to Asset Manager from: "resources/icons/countries/Bulgaria.png"
+Country added: (BG) Bulgaria
+Database::addCountry = Burkina Faso
+Database::addCountryTag = BF = Burkina Faso
+"Burkina Faso" Loaded to Asset Manager from: "resources/icons/countries/Burkina Faso.png"
+Country added: (BF) Burkina Faso
+Database::addCountry = Burundi
+Database::addCountryTag = BI = Burundi
+"Burundi" Loaded to Asset Manager from: "resources/icons/countries/Burundi.png"
+Country added: (BI) Burundi
+Database::addCountry = Cambodia
+Database::addCountryTag = KH = Cambodia
+"Cambodia" Loaded to Asset Manager from: "resources/icons/countries/Cambodia.png"
+Country added: (KH) Cambodia
+Database::addCountry = Cameroon
+Database::addCountryTag = CM = Cameroon
+"Cameroon" Loaded to Asset Manager from: "resources/icons/countries/Cameroon.png"
+Country added: (CM) Cameroon
+Database::addCountry = Canada
+Database::addCountryTag = CA = Canada
+"Canada" Loaded to Asset Manager from: "resources/icons/countries/Canada.png"
+Country added: (CA) Canada
+Database::addCountry = Cape Verde
+Database::addCountryTag = CV = Cape Verde
+"Cape Verde" Loaded to Asset Manager from: "resources/icons/countries/Cape Verde.png"
+Country added: (CV) Cape Verde
+Database::addCountry = Cayman Islands
+Database::addCountryTag = KY = Cayman Islands
+"Cayman Islands" Loaded to Asset Manager from: "resources/icons/countries/Cayman Islands.png"
+Country added: (KY) Cayman Islands
+Database::addCountry = Central African Republic
+Database::addCountryTag = CF = Central African Republic
+"Central African Republic" Loaded to Asset Manager from: "resources/icons/countries/Central African Republic.png"
+Country added: (CF) Central African Republic
+Database::addCountry = Chad
+Database::addCountryTag = TD = Chad
+"Chad" Loaded to Asset Manager from: "resources/icons/countries/Chad.png"
+Country added: (TD) Chad
+Database::addCountry = Chile
+Database::addCountryTag = CL = Chile
+"Chile" Loaded to Asset Manager from: "resources/icons/countries/Chile.png"
+Country added: (CL) Chile
+Database::addCountry = China
+Database::addCountryTag = CN = China
+"China" Loaded to Asset Manager from: "resources/icons/countries/China.png"
+Country added: (CN) China
+Database::addCountry = Christmas Island
+Database::addCountryTag = CX = Christmas Island
+"Christmas Island" Loaded to Asset Manager from: "resources/icons/countries/Christmas Island.png"
+Country added: (CX) Christmas Island
+Database::addCountry = Cocos (Keeling) Islands
+Database::addCountryTag = CC = Cocos (Keeling) Islands
+"Cocos (Keeling) Islands" Loaded to Asset Manager from: "resources/icons/countries/Cocos (Keeling) Islands.png"
+Country added: (CC) Cocos (Keeling) Islands
+Database::addCountry = Colombia
+Database::addCountryTag = CO = Colombia
+"Colombia" Loaded to Asset Manager from: "resources/icons/countries/Colombia.png"
+Country added: (CO) Colombia
+Database::addCountry = Comoros
+Database::addCountryTag = KM = Comoros
+"Comoros" Loaded to Asset Manager from: "resources/icons/countries/Comoros.png"
+Country added: (KM) Comoros
+Database::addCountry = Congo
+Database::addCountryTag = CG = Congo
+"Congo" Loaded to Asset Manager from: "resources/icons/countries/Congo.png"
+Country added: (CG) Congo
+Database::addCountry = Democratic Republic of Congo
+Database::addCountryTag = CD = Democratic Republic of Congo
+"Democratic Republic of Congo" Loaded to Asset Manager from: "resources/icons/countries/Democratic Republic of Congo.png"
+Country added: (CD) Democratic Republic of Congo
+Database::addCountry = Cook Islands
+Database::addCountryTag = CK = Cook Islands
+"Cook Islands" Loaded to Asset Manager from: "resources/icons/countries/Cook Islands.png"
+Country added: (CK) Cook Islands
+Database::addCountry = Costa Rica
+Database::addCountryTag = CR = Costa Rica
+"Costa Rica" Loaded to Asset Manager from: "resources/icons/countries/Costa Rica.png"
+Country added: (CR) Costa Rica
+Database::addCountry = Ivory Coast
+Database::addCountryTag = CI = Ivory Coast
+"Ivory Coast" Loaded to Asset Manager from: "resources/icons/countries/Ivory Coast.png"
+Country added: (CI) Ivory Coast
+Database::addCountry = Croatia
+Database::addCountryTag = HR = Croatia
+"Croatia" Loaded to Asset Manager from: "resources/icons/countries/Croatia.png"
+Country added: (HR) Croatia
+Database::addCountry = Cuba
+Database::addCountryTag = CU = Cuba
+"Cuba" Loaded to Asset Manager from: "resources/icons/countries/Cuba.png"
+Country added: (CU) Cuba
+Database::addCountry = Cyprus
+Database::addCountryTag = CY = Cyprus
+"Cyprus" Loaded to Asset Manager from: "resources/icons/countries/Cyprus.png"
+Country added: (CY) Cyprus
+Database::addCountry = Czech Republic
+Database::addCountryTag = CZ = Czech Republic
+"Czech Republic" Loaded to Asset Manager from: "resources/icons/countries/Czech Republic.png"
+Country added: (CZ) Czech Republic
+Database::addCountry = Denmark
+Database::addCountryTag = DK = Denmark
+"Denmark" Loaded to Asset Manager from: "resources/icons/countries/Denmark.png"
+Country added: (DK) Denmark
+Database::addCountry = Djibouti
+Database::addCountryTag = DJ = Djibouti
+"Djibouti" Loaded to Asset Manager from: "resources/icons/countries/Djibouti.png"
+Country added: (DJ) Djibouti
+Database::addCountry = Dominica
+Database::addCountryTag = DM = Dominica
+"Dominica" Loaded to Asset Manager from: "resources/icons/countries/Dominica.png"
+Country added: (DM) Dominica
+Database::addCountry = Dominican Republic
+Database::addCountryTag = DO = Dominican Republic
+"Dominican Republic" Loaded to Asset Manager from: "resources/icons/countries/Dominican Republic.png"
+Country added: (DO) Dominican Republic
+Database::addCountry = Ecuador
+Database::addCountryTag = EC = Ecuador
+"Ecuador" Loaded to Asset Manager from: "resources/icons/countries/Ecuador.png"
+Country added: (EC) Ecuador
+Database::addCountry = Egypt
+Database::addCountryTag = EG = Egypt
+"Egypt" Loaded to Asset Manager from: "resources/icons/countries/Egypt.png"
+Country added: (EG) Egypt
+Database::addCountry = El Salvador
+Database::addCountryTag = SV = El Salvador
+"El Salvador" Loaded to Asset Manager from: "resources/icons/countries/El Salvador.png"
+Country added: (SV) El Salvador
+Database::addCountry = Equatorial Guinea
+Database::addCountryTag = GQ = Equatorial Guinea
+"Equatorial Guinea" Loaded to Asset Manager from: "resources/icons/countries/Equatorial Guinea.png"
+Country added: (GQ) Equatorial Guinea
+Database::addCountry = Eritrea
+Database::addCountryTag = ER = Eritrea
+"Eritrea" Loaded to Asset Manager from: "resources/icons/countries/Eritrea.png"
+Country added: (ER) Eritrea
+Database::addCountry = Estonia
+Database::addCountryTag = EE = Estonia
+"Estonia" Loaded to Asset Manager from: "resources/icons/countries/Estonia.png"
+Country added: (EE) Estonia
+Database::addCountry = Ethiopia
+Database::addCountryTag = ET = Ethiopia
+"Ethiopia" Loaded to Asset Manager from: "resources/icons/countries/Ethiopia.png"
+Country added: (ET) Ethiopia
+Database::addCountry = Falkland Islands
+Database::addCountryTag = FK = Falkland Islands
+"Falkland Islands" Loaded to Asset Manager from: "resources/icons/countries/Falkland Islands.png"
+Country added: (FK) Falkland Islands
+Database::addCountry = Faroe Islands
+Database::addCountryTag = FO = Faroe Islands
+"Faroe Islands" Loaded to Asset Manager from: "resources/icons/countries/Faroe Islands.png"
+Country added: (FO) Faroe Islands
+Database::addCountry = Fiji
+Database::addCountryTag = FJ = Fiji
+"Fiji" Loaded to Asset Manager from: "resources/icons/countries/Fiji.png"
+Country added: (FJ) Fiji
+Database::addCountry = Finland
+Database::addCountryTag = FI = Finland
+"Finland" Loaded to Asset Manager from: "resources/icons/countries/Finland.png"
+Country added: (FI) Finland
+Database::addCountry = France
+Database::addCountryTag = FR = France
+"France" Loaded to Asset Manager from: "resources/icons/countries/France.png"
+Country added: (FR) France
+Database::addCountry = French Guiana
+Database::addCountryTag = GF = French Guiana
+"French Guiana" Loaded to Asset Manager from: "resources/icons/countries/French Guiana.png"
+Country added: (GF) French Guiana
+Database::addCountry = French Polynesia
+Database::addCountryTag = PF = French Polynesia
+"French Polynesia" Loaded to Asset Manager from: "resources/icons/countries/French Polynesia.png"
+Country added: (PF) French Polynesia
+Database::addCountry = French Southern Territories
+Database::addCountryTag = TF = French Southern Territories
+"French Southern Territories" Loaded to Asset Manager from: "resources/icons/countries/French Southern Territories.png"
+Country added: (TF) French Southern Territories
+Database::addCountry = Gabon
+Database::addCountryTag = GA = Gabon
+"Gabon" Loaded to Asset Manager from: "resources/icons/countries/Gabon.png"
+Country added: (GA) Gabon
+Database::addCountry = Gambia
+Database::addCountryTag = GM = Gambia
+"Gambia" Loaded to Asset Manager from: "resources/icons/countries/Gambia.png"
+Country added: (GM) Gambia
+Database::addCountry = Georgia
+Database::addCountryTag = GE = Georgia
+"Georgia" Loaded to Asset Manager from: "resources/icons/countries/Georgia.png"
+Country added: (GE) Georgia
+Database::addCountry = Germany
+Database::addCountryTag = DE = Germany
+"Germany" Loaded to Asset Manager from: "resources/icons/countries/Germany.png"
+Country added: (DE) Germany
+Database::addCountry = Ghana
+Database::addCountryTag = GH = Ghana
+"Ghana" Loaded to Asset Manager from: "resources/icons/countries/Ghana.png"
+Country added: (GH) Ghana
+Database::addCountry = Gibraltar
+Database::addCountryTag = GI = Gibraltar
+"Gibraltar" Loaded to Asset Manager from: "resources/icons/countries/Gibraltar.png"
+Country added: (GI) Gibraltar
+Database::addCountry = Greece
+Database::addCountryTag = GR = Greece
+"Greece" Loaded to Asset Manager from: "resources/icons/countries/Greece.png"
+Country added: (GR) Greece
+Database::addCountry = Greenland
+Database::addCountryTag = GL = Greenland
+"Greenland" Loaded to Asset Manager from: "resources/icons/countries/Greenland.png"
+Country added: (GL) Greenland
+Database::addCountry = Grenada
+Database::addCountryTag = GD = Grenada
+"Grenada" Loaded to Asset Manager from: "resources/icons/countries/Grenada.png"
+Country added: (GD) Grenada
+Database::addCountry = Guadeloupe
+Database::addCountryTag = GP = Guadeloupe
+"Guadeloupe" Loaded to Asset Manager from: "resources/icons/countries/Guadeloupe.png"
+Country added: (GP) Guadeloupe
+Database::addCountry = Guam
+Database::addCountryTag = GU = Guam
+"Guam" Loaded to Asset Manager from: "resources/icons/countries/Guam.png"
+Country added: (GU) Guam
+Database::addCountry = Guatemala
+Database::addCountryTag = GT = Guatemala
+"Guatemala" Loaded to Asset Manager from: "resources/icons/countries/Guatemala.png"
+Country added: (GT) Guatemala
+Database::addCountry = Guernsey
+Database::addCountryTag = GG = Guernsey
+"Guernsey" Loaded to Asset Manager from: "resources/icons/countries/Guernsey.png"
+Country added: (GG) Guernsey
+Database::addCountry = Guinea
+Database::addCountryTag = GN = Guinea
+"Guinea" Loaded to Asset Manager from: "resources/icons/countries/Guinea.png"
+Country added: (GN) Guinea
+Database::addCountry = Guinea-Bissau
+Database::addCountryTag = GW = Guinea-Bissau
+"Guinea-Bissau" Loaded to Asset Manager from: "resources/icons/countries/Guinea-Bissau.png"
+Country added: (GW) Guinea-Bissau
+Database::addCountry = Guyana
+Database::addCountryTag = GY = Guyana
+"Guyana" Loaded to Asset Manager from: "resources/icons/countries/Guyana.png"
+Country added: (GY) Guyana
+Database::addCountry = Haiti
+Database::addCountryTag = HT = Haiti
+"Haiti" Loaded to Asset Manager from: "resources/icons/countries/Haiti.png"
+Country added: (HT) Haiti
+Database::addCountry = Heard Island and McDonald Islands
+Database::addCountryTag = HM = Heard Island and McDonald Islands
+"Heard Island and McDonald Islands" Loaded to Asset Manager from: "resources/icons/countries/Heard Island and McDonald Islands.png"
+Country added: (HM) Heard Island and McDonald Islands
+Database::addCountry = Vatican
+Database::addCountryTag = VA = Vatican
+"Vatican" Loaded to Asset Manager from: "resources/icons/countries/Vatican.png"
+Country added: (VA) Vatican
+Database::addCountry = Honduras
+Database::addCountryTag = HN = Honduras
+"Honduras" Loaded to Asset Manager from: "resources/icons/countries/Honduras.png"
+Country added: (HN) Honduras
+Database::addCountry = Hong Kong
+Database::addCountryTag = HK = Hong Kong
+"Hong Kong" Loaded to Asset Manager from: "resources/icons/countries/Hong Kong.png"
+Country added: (HK) Hong Kong
+Database::addCountry = Hungary
+Database::addCountryTag = HU = Hungary
+"Hungary" Loaded to Asset Manager from: "resources/icons/countries/Hungary.png"
+Country added: (HU) Hungary
+Database::addCountry = Iceland
+Database::addCountryTag = IS = Iceland
+"Iceland" Loaded to Asset Manager from: "resources/icons/countries/Iceland.png"
+Country added: (IS) Iceland
+Database::addCountry = India
+Database::addCountryTag = IN = India
+"India" Loaded to Asset Manager from: "resources/icons/countries/India.png"
+Country added: (IN) India
+Database::addCountry = Indonesia
+Database::addCountryTag = ID = Indonesia
+"Indonesia" Loaded to Asset Manager from: "resources/icons/countries/Indonesia.png"
+Country added: (ID) Indonesia
+Database::addCountry = Iran
+Database::addCountryTag = IR = Iran
+"Iran" Loaded to Asset Manager from: "resources/icons/countries/Iran.png"
+Country added: (IR) Iran
+Database::addCountry = Iraq
+Database::addCountryTag = IQ = Iraq
+"Iraq" Loaded to Asset Manager from: "resources/icons/countries/Iraq.png"
+Country added: (IQ) Iraq
+Database::addCountry = Ireland
+Database::addCountryTag = IE = Ireland
+"Ireland" Loaded to Asset Manager from: "resources/icons/countries/Ireland.png"
+Country added: (IE) Ireland
+Database::addCountry = Isle of Man
+Database::addCountryTag = IM = Isle of Man
+"Isle of Man" Loaded to Asset Manager from: "resources/icons/countries/Isle of Man.png"
+Country added: (IM) Isle of Man
+Database::addCountry = Israel
+Database::addCountryTag = IL = Israel
+"Israel" Loaded to Asset Manager from: "resources/icons/countries/Israel.png"
+Country added: (IL) Israel
+Database::addCountry = Italy
+Database::addCountryTag = IT = Italy
+"Italy" Loaded to Asset Manager from: "resources/icons/countries/Italy.png"
+Country added: (IT) Italy
+Database::addCountry = Jamaica
+Database::addCountryTag = JM = Jamaica
+"Jamaica" Loaded to Asset Manager from: "resources/icons/countries/Jamaica.png"
+Country added: (JM) Jamaica
+Database::addCountry = Japan
+Database::addCountryTag = JP = Japan
+"Japan" Loaded to Asset Manager from: "resources/icons/countries/Japan.png"
+Country added: (JP) Japan
+Database::addCountry = Jersey
+Database::addCountryTag = JE = Jersey
+"Jersey" Loaded to Asset Manager from: "resources/icons/countries/Jersey.png"
+Country added: (JE) Jersey
+Database::addCountry = Jordan
+Database::addCountryTag = JO = Jordan
+"Jordan" Loaded to Asset Manager from: "resources/icons/countries/Jordan.png"
+Country added: (JO) Jordan
+Database::addCountry = Kazakhstan
+Database::addCountryTag = KZ = Kazakhstan
+"Kazakhstan" Loaded to Asset Manager from: "resources/icons/countries/Kazakhstan.png"
+Country added: (KZ) Kazakhstan
+Database::addCountry = Kenya
+Database::addCountryTag = KE = Kenya
+"Kenya" Loaded to Asset Manager from: "resources/icons/countries/Kenya.png"
+Country added: (KE) Kenya
+Database::addCountry = Kiribati
+Database::addCountryTag = KI = Kiribati
+"Kiribati" Loaded to Asset Manager from: "resources/icons/countries/Kiribati.png"
+Country added: (KI) Kiribati
+Database::addCountry = North Korea
+Database::addCountryTag = KP = North Korea
+"North Korea" Loaded to Asset Manager from: "resources/icons/countries/North Korea.png"
+Country added: (KP) North Korea
+Database::addCountry = South Korea
+Database::addCountryTag = KR = South Korea
+"South Korea" Loaded to Asset Manager from: "resources/icons/countries/South Korea.png"
+Country added: (KR) South Korea
+Database::addCountry = Kuwait
+Database::addCountryTag = KW = Kuwait
+"Kuwait" Loaded to Asset Manager from: "resources/icons/countries/Kuwait.png"
+Country added: (KW) Kuwait
+Database::addCountry = Kyrgyzstan
+Database::addCountryTag = KG = Kyrgyzstan
+"Kyrgyzstan" Loaded to Asset Manager from: "resources/icons/countries/Kyrgyzstan.png"
+Country added: (KG) Kyrgyzstan
+Database::addCountry = Laos
+Database::addCountryTag = LA = Laos
+"Laos" Loaded to Asset Manager from: "resources/icons/countries/Laos.png"
+Country added: (LA) Laos
+Database::addCountry = Latvia
+Database::addCountryTag = LV = Latvia
+"Latvia" Loaded to Asset Manager from: "resources/icons/countries/Latvia.png"
+Country added: (LV) Latvia
+Database::addCountry = Lebanon
+Database::addCountryTag = LB = Lebanon
+"Lebanon" Loaded to Asset Manager from: "resources/icons/countries/Lebanon.png"
+Country added: (LB) Lebanon
+Database::addCountry = Lesotho
+Database::addCountryTag = LS = Lesotho
+"Lesotho" Loaded to Asset Manager from: "resources/icons/countries/Lesotho.png"
+Country added: (LS) Lesotho
+Database::addCountry = Liberia
+Database::addCountryTag = LR = Liberia
+"Liberia" Loaded to Asset Manager from: "resources/icons/countries/Liberia.png"
+Country added: (LR) Liberia
+Database::addCountry = Libya
+Database::addCountryTag = LY = Libya
+"Libya" Loaded to Asset Manager from: "resources/icons/countries/Libya.png"
+Country added: (LY) Libya
+Database::addCountry = Liechtenstein
+Database::addCountryTag = LI = Liechtenstein
+"Liechtenstein" Loaded to Asset Manager from: "resources/icons/countries/Liechtenstein.png"
+Country added: (LI) Liechtenstein
+Database::addCountry = Lithuania
+Database::addCountryTag = LT = Lithuania
+"Lithuania" Loaded to Asset Manager from: "resources/icons/countries/Lithuania.png"
+Country added: (LT) Lithuania
+Database::addCountry = Luxembourg
+Database::addCountryTag = LU = Luxembourg
+"Luxembourg" Loaded to Asset Manager from: "resources/icons/countries/Luxembourg.png"
+Country added: (LU) Luxembourg
+Database::addCountry = Macao
+Database::addCountryTag = MO = Macao
+"Macao" Loaded to Asset Manager from: "resources/icons/countries/Macao.png"
+Country added: (MO) Macao
+Database::addCountry = North Macedonia
+Database::addCountryTag = MK = North Macedonia
+"North Macedonia" Loaded to Asset Manager from: "resources/icons/countries/North Macedonia.png"
+Country added: (MK) North Macedonia
+Database::addCountry = Madagascar
+Database::addCountryTag = MG = Madagascar
+"Madagascar" Loaded to Asset Manager from: "resources/icons/countries/Madagascar.png"
+Country added: (MG) Madagascar
+Database::addCountry = Malawi
+Database::addCountryTag = MW = Malawi
+"Malawi" Loaded to Asset Manager from: "resources/icons/countries/Malawi.png"
+Country added: (MW) Malawi
+Database::addCountry = Malaysia
+Database::addCountryTag = MY = Malaysia
+"Malaysia" Loaded to Asset Manager from: "resources/icons/countries/Malaysia.png"
+Country added: (MY) Malaysia
+Database::addCountry = Maldives
+Database::addCountryTag = MV = Maldives
+"Maldives" Loaded to Asset Manager from: "resources/icons/countries/Maldives.png"
+Country added: (MV) Maldives
+Database::addCountry = Mali
+Database::addCountryTag = ML = Mali
+"Mali" Loaded to Asset Manager from: "resources/icons/countries/Mali.png"
+Country added: (ML) Mali
+Database::addCountry = Malta
+Database::addCountryTag = MT = Malta
+"Malta" Loaded to Asset Manager from: "resources/icons/countries/Malta.png"
+Country added: (MT) Malta
+Database::addCountry = Marshall Islands
+Database::addCountryTag = MH = Marshall Islands
+"Marshall Islands" Loaded to Asset Manager from: "resources/icons/countries/Marshall Islands.png"
+Country added: (MH) Marshall Islands
+Database::addCountry = Martinique
+Database::addCountryTag = MQ = Martinique
+"Martinique" Loaded to Asset Manager from: "resources/icons/countries/Martinique.png"
+Country added: (MQ) Martinique
+Database::addCountry = Mauritania
+Database::addCountryTag = MR = Mauritania
+"Mauritania" Loaded to Asset Manager from: "resources/icons/countries/Mauritania.png"
+Country added: (MR) Mauritania
+Database::addCountry = Mauritius
+Database::addCountryTag = MU = Mauritius
+"Mauritius" Loaded to Asset Manager from: "resources/icons/countries/Mauritius.png"
+Country added: (MU) Mauritius
+Database::addCountry = Mayotte
+Database::addCountryTag = YT = Mayotte
+"Mayotte" Loaded to Asset Manager from: "resources/icons/countries/Mayotte.png"
+Country added: (YT) Mayotte
+Database::addCountry = Mexico
+Database::addCountryTag = MX = Mexico
+"Mexico" Loaded to Asset Manager from: "resources/icons/countries/Mexico.png"
+Country added: (MX) Mexico
+Database::addCountry = Micronesia
+Database::addCountryTag = FM = Micronesia
+"Micronesia" Loaded to Asset Manager from: "resources/icons/countries/Micronesia.png"
+Country added: (FM) Micronesia
+Database::addCountry = Moldova
+Database::addCountryTag = MD = Moldova
+"Moldova" Loaded to Asset Manager from: "resources/icons/countries/Moldova.png"
+Country added: (MD) Moldova
+Database::addCountry = Monaco
+Database::addCountryTag = MC = Monaco
+"Monaco" Loaded to Asset Manager from: "resources/icons/countries/Monaco.png"
+Country added: (MC) Monaco
+Database::addCountry = Mongolia
+Database::addCountryTag = MN = Mongolia
+"Mongolia" Loaded to Asset Manager from: "resources/icons/countries/Mongolia.png"
+Country added: (MN) Mongolia
+Database::addCountry = Montenegro
+Database::addCountryTag = ME = Montenegro
+"Montenegro" Loaded to Asset Manager from: "resources/icons/countries/Montenegro.png"
+Country added: (ME) Montenegro
+Database::addCountry = Montserrat
+Database::addCountryTag = MS = Montserrat
+"Montserrat" Loaded to Asset Manager from: "resources/icons/countries/Montserrat.png"
+Country added: (MS) Montserrat
+Database::addCountry = Morocco
+Database::addCountryTag = MA = Morocco
+"Morocco" Loaded to Asset Manager from: "resources/icons/countries/Morocco.png"
+Country added: (MA) Morocco
+Database::addCountry = Mozambique
+Database::addCountryTag = MZ = Mozambique
+"Mozambique" Loaded to Asset Manager from: "resources/icons/countries/Mozambique.png"
+Country added: (MZ) Mozambique
+Database::addCountry = Myanmar
+Database::addCountryTag = MM = Myanmar
+"Myanmar" Loaded to Asset Manager from: "resources/icons/countries/Myanmar.png"
+Country added: (MM) Myanmar
+Database::addCountry = Namibia
+Database::addCountryTag = NA = Namibia
+"Namibia" Loaded to Asset Manager from: "resources/icons/countries/Namibia.png"
+Country added: (NA) Namibia
+Database::addCountry = Nauru
+Database::addCountryTag = NR = Nauru
+"Nauru" Loaded to Asset Manager from: "resources/icons/countries/Nauru.png"
+Country added: (NR) Nauru
+Database::addCountry = Nepal
+Database::addCountryTag = NP = Nepal
+"Nepal" Loaded to Asset Manager from: "resources/icons/countries/Nepal.png"
+Country added: (NP) Nepal
+Database::addCountry = Netherlands
+Database::addCountryTag = NL = Netherlands
+"Netherlands" Loaded to Asset Manager from: "resources/icons/countries/Netherlands.png"
+Country added: (NL) Netherlands
+Database::addCountry = Netherlands Antilles
+Database::addCountryTag = AN = Netherlands Antilles
+"Netherlands Antilles" NOT loaded to Asset Manager from: "resources/icons/countries/Netherlands Antilles.png" (Missing Texture applied)
+Country added: (AN) Netherlands Antilles
+Database::addCountry = New Caledonia
+Database::addCountryTag = NC = New Caledonia
+"New Caledonia" Loaded to Asset Manager from: "resources/icons/countries/New Caledonia.png"
+Country added: (NC) New Caledonia
+Database::addCountry = New Zealand
+Database::addCountryTag = NZ = New Zealand
+"New Zealand" Loaded to Asset Manager from: "resources/icons/countries/New Zealand.png"
+Country added: (NZ) New Zealand
+Database::addCountry = Nicaragua
+Database::addCountryTag = NI = Nicaragua
+"Nicaragua" Loaded to Asset Manager from: "resources/icons/countries/Nicaragua.png"
+Country added: (NI) Nicaragua
+Database::addCountry = Niger
+Database::addCountryTag = NE = Niger
+"Niger" Loaded to Asset Manager from: "resources/icons/countries/Niger.png"
+Country added: (NE) Niger
+Database::addCountry = Nigeria
+Database::addCountryTag = NG = Nigeria
+"Nigeria" Loaded to Asset Manager from: "resources/icons/countries/Nigeria.png"
+Country added: (NG) Nigeria
+Database::addCountry = Niue
+Database::addCountryTag = NU = Niue
+"Niue" Loaded to Asset Manager from: "resources/icons/countries/Niue.png"
+Country added: (NU) Niue
+Database::addCountry = Norfolk Island
+Database::addCountryTag = NF = Norfolk Island
+"Norfolk Island" Loaded to Asset Manager from: "resources/icons/countries/Norfolk Island.png"
+Country added: (NF) Norfolk Island
+Database::addCountry = Northern Mariana Islands
+Database::addCountryTag = MP = Northern Mariana Islands
+"Northern Mariana Islands" Loaded to Asset Manager from: "resources/icons/countries/Northern Mariana Islands.png"
+Country added: (MP) Northern Mariana Islands
+Database::addCountry = Norway
+Database::addCountryTag = NO = Norway
+"Norway" Loaded to Asset Manager from: "resources/icons/countries/Norway.png"
+Country added: (NO) Norway
+Database::addCountry = Oman
+Database::addCountryTag = OM = Oman
+"Oman" Loaded to Asset Manager from: "resources/icons/countries/Oman.png"
+Country added: (OM) Oman
+Database::addCountry = Pakistan
+Database::addCountryTag = PK = Pakistan
+"Pakistan" Loaded to Asset Manager from: "resources/icons/countries/Pakistan.png"
+Country added: (PK) Pakistan
+Database::addCountry = Palau
+Database::addCountryTag = PW = Palau
+"Palau" Loaded to Asset Manager from: "resources/icons/countries/Palau.png"
+Country added: (PW) Palau
+Database::addCountry = Palestine
+Database::addCountryTag = PS = Palestine
+"Palestine" Loaded to Asset Manager from: "resources/icons/countries/Palestine.png"
+Country added: (PS) Palestine
+Database::addCountry = Panama
+Database::addCountryTag = PA = Panama
+"Panama" Loaded to Asset Manager from: "resources/icons/countries/Panama.png"
+Country added: (PA) Panama
+Database::addCountry = Papua New Guinea
+Database::addCountryTag = PG = Papua New Guinea
+"Papua New Guinea" Loaded to Asset Manager from: "resources/icons/countries/Papua New Guinea.png"
+Country added: (PG) Papua New Guinea
+Database::addCountry = Paraguay
+Database::addCountryTag = PY = Paraguay
+"Paraguay" Loaded to Asset Manager from: "resources/icons/countries/Paraguay.png"
+Country added: (PY) Paraguay
+Database::addCountry = Peru
+Database::addCountryTag = PE = Peru
+"Peru" Loaded to Asset Manager from: "resources/icons/countries/Peru.png"
+Country added: (PE) Peru
+Database::addCountry = Philippines
+Database::addCountryTag = PH = Philippines
+"Philippines" Loaded to Asset Manager from: "resources/icons/countries/Philippines.png"
+Country added: (PH) Philippines
+Database::addCountry = Pitcairn
+Database::addCountryTag = PN = Pitcairn
+"Pitcairn" Loaded to Asset Manager from: "resources/icons/countries/Pitcairn.png"
+Country added: (PN) Pitcairn
+Database::addCountry = Poland
+Database::addCountryTag = PL = Poland
+"Poland" Loaded to Asset Manager from: "resources/icons/countries/Poland.png"
+Country added: (PL) Poland
+Database::addCountry = Portugal
+Database::addCountryTag = PT = Portugal
+"Portugal" Loaded to Asset Manager from: "resources/icons/countries/Portugal.png"
+Country added: (PT) Portugal
+Database::addCountry = Puerto Rico
+Database::addCountryTag = PR = Puerto Rico
+"Puerto Rico" Loaded to Asset Manager from: "resources/icons/countries/Puerto Rico.png"
+Country added: (PR) Puerto Rico
+Database::addCountry = Qatar
+Database::addCountryTag = QA = Qatar
+"Qatar" Loaded to Asset Manager from: "resources/icons/countries/Qatar.png"
+Country added: (QA) Qatar
+Database::addCountry = Reunion
+Database::addCountryTag = RE = Reunion
+"Reunion" Loaded to Asset Manager from: "resources/icons/countries/Reunion.png"
+Country added: (RE) Reunion
+Database::addCountry = Romania
+Database::addCountryTag = RO = Romania
+"Romania" Loaded to Asset Manager from: "resources/icons/countries/Romania.png"
+Country added: (RO) Romania
+Database::addCountry = Russia
+Database::addCountryTag = RU = Russia
+"Russia" Loaded to Asset Manager from: "resources/icons/countries/Russia.png"
+Country added: (RU) Russia
+Database::addCountry = Rwanda
+Database::addCountryTag = RW = Rwanda
+"Rwanda" Loaded to Asset Manager from: "resources/icons/countries/Rwanda.png"
+Country added: (RW) Rwanda
+Database::addCountry = Saint Barthelemy
+Database::addCountryTag = BL = Saint Barthelemy
+"Saint Barthelemy" Loaded to Asset Manager from: "resources/icons/countries/Saint Barthelemy.png"
+Country added: (BL) Saint Barthelemy
+Database::addCountry = Saint Helena, Ascension and Tristan da Cunha
+Database::addCountryTag = SH = Saint Helena, Ascension and Tristan da Cunha
+"Saint Helena, Ascension and Tristan da Cunha" Loaded to Asset Manager from: "resources/icons/countries/Saint Helena, Ascension and Tristan da Cunha.png"
+Country added: (SH) Saint Helena, Ascension and Tristan da Cunha
+Database::addCountry = Saint Kitts and Nevis
+Database::addCountryTag = KN = Saint Kitts and Nevis
+"Saint Kitts and Nevis" Loaded to Asset Manager from: "resources/icons/countries/Saint Kitts and Nevis.png"
+Country added: (KN) Saint Kitts and Nevis
+Database::addCountry = Saint Lucia
+Database::addCountryTag = LC = Saint Lucia
+"Saint Lucia" Loaded to Asset Manager from: "resources/icons/countries/Saint Lucia.png"
+Country added: (LC) Saint Lucia
+Database::addCountry = Saint Martin
+Database::addCountryTag = MF = Saint Martin
+"Saint Martin" Loaded to Asset Manager from: "resources/icons/countries/Saint Martin.png"
+Country added: (MF) Saint Martin
+Database::addCountry = Saint Pierre and Miquelon
+Database::addCountryTag = PM = Saint Pierre and Miquelon
+"Saint Pierre and Miquelon" Loaded to Asset Manager from: "resources/icons/countries/Saint Pierre and Miquelon.png"
+Country added: (PM) Saint Pierre and Miquelon
+Database::addCountry = Saint Vincent and the Grenadines
+Database::addCountryTag = VC = Saint Vincent and the Grenadines
+"Saint Vincent and the Grenadines" Loaded to Asset Manager from: "resources/icons/countries/Saint Vincent and the Grenadines.png"
+Country added: (VC) Saint Vincent and the Grenadines
+Database::addCountry = Samoa
+Database::addCountryTag = WS = Samoa
+"Samoa" Loaded to Asset Manager from: "resources/icons/countries/Samoa.png"
+Country added: (WS) Samoa
+Database::addCountry = San Marino
+Database::addCountryTag = SM = San Marino
+"San Marino" Loaded to Asset Manager from: "resources/icons/countries/San Marino.png"
+Country added: (SM) San Marino
+Database::addCountry = Sao Tome and Principe
+Database::addCountryTag = ST = Sao Tome and Principe
+"Sao Tome and Principe" Loaded to Asset Manager from: "resources/icons/countries/Sao Tome and Principe.png"
+Country added: (ST) Sao Tome and Principe
+Database::addCountry = Saudi Arabia
+Database::addCountryTag = SA = Saudi Arabia
+"Saudi Arabia" Loaded to Asset Manager from: "resources/icons/countries/Saudi Arabia.png"
+Country added: (SA) Saudi Arabia
+Database::addCountry = Senegal
+Database::addCountryTag = SN = Senegal
+"Senegal" Loaded to Asset Manager from: "resources/icons/countries/Senegal.png"
+Country added: (SN) Senegal
+Database::addCountry = Serbia
+Database::addCountryTag = RS = Serbia
+"Serbia" Loaded to Asset Manager from: "resources/icons/countries/Serbia.png"
+Country added: (RS) Serbia
+Database::addCountry = Seychelles
+Database::addCountryTag = SC = Seychelles
+"Seychelles" Loaded to Asset Manager from: "resources/icons/countries/Seychelles.png"
+Country added: (SC) Seychelles
+Database::addCountry = Sierra Leone
+Database::addCountryTag = SL = Sierra Leone
+"Sierra Leone" Loaded to Asset Manager from: "resources/icons/countries/Sierra Leone.png"
+Country added: (SL) Sierra Leone
+Database::addCountry = Singapore
+Database::addCountryTag = SG = Singapore
+"Singapore" Loaded to Asset Manager from: "resources/icons/countries/Singapore.png"
+Country added: (SG) Singapore
+Database::addCountry = Slovakia
+Database::addCountryTag = SK = Slovakia
+"Slovakia" Loaded to Asset Manager from: "resources/icons/countries/Slovakia.png"
+Country added: (SK) Slovakia
+Database::addCountry = Slovenia
+Database::addCountryTag = SI = Slovenia
+"Slovenia" Loaded to Asset Manager from: "resources/icons/countries/Slovenia.png"
+Country added: (SI) Slovenia
+Database::addCountry = Solomon Islands
+Database::addCountryTag = SB = Solomon Islands
+"Solomon Islands" Loaded to Asset Manager from: "resources/icons/countries/Solomon Islands.png"
+Country added: (SB) Solomon Islands
+Database::addCountry = Somalia
+Database::addCountryTag = SO = Somalia
+"Somalia" Loaded to Asset Manager from: "resources/icons/countries/Somalia.png"
+Country added: (SO) Somalia
+Database::addCountry = South Africa
+Database::addCountryTag = ZA = South Africa
+"South Africa" Loaded to Asset Manager from: "resources/icons/countries/South Africa.png"
+Country added: (ZA) South Africa
+Database::addCountry = South Georgia and the South Sandwich Islands
+Database::addCountryTag = GS = South Georgia and the South Sandwich Islands
+"South Georgia and the South Sandwich Islands" Loaded to Asset Manager from: "resources/icons/countries/South Georgia and the South Sandwich Islands.png"
+Country added: (GS) South Georgia and the South Sandwich Islands
+Database::addCountry = Spain
+Database::addCountryTag = ES = Spain
+"Spain" Loaded to Asset Manager from: "resources/icons/countries/Spain.png"
+Country added: (ES) Spain
+Database::addCountry = Sri Lanka
+Database::addCountryTag = LK = Sri Lanka
+"Sri Lanka" Loaded to Asset Manager from: "resources/icons/countries/Sri Lanka.png"
+Country added: (LK) Sri Lanka
+Database::addCountry = Sudan
+Database::addCountryTag = SD = Sudan
+"Sudan" Loaded to Asset Manager from: "resources/icons/countries/Sudan.png"
+Country added: (SD) Sudan
+Database::addCountry = Suriname
+Database::addCountryTag = SR = Suriname
+"Suriname" Loaded to Asset Manager from: "resources/icons/countries/Suriname.png"
+Country added: (SR) Suriname
+Database::addCountry = Svalbard and Jan Mayen
+Database::addCountryTag = SJ = Svalbard and Jan Mayen
+"Svalbard and Jan Mayen" Loaded to Asset Manager from: "resources/icons/countries/Svalbard and Jan Mayen.png"
+Country added: (SJ) Svalbard and Jan Mayen
+Database::addCountry = Eswatini
+Database::addCountryTag = SZ = Eswatini
+"Eswatini" Loaded to Asset Manager from: "resources/icons/countries/Eswatini.png"
+Country added: (SZ) Eswatini
+Database::addCountry = Sweden
+Database::addCountryTag = SE = Sweden
+"Sweden" Loaded to Asset Manager from: "resources/icons/countries/Sweden.png"
+Country added: (SE) Sweden
+Database::addCountry = Switzerland
+Database::addCountryTag = CH = Switzerland
+"Switzerland" Loaded to Asset Manager from: "resources/icons/countries/Switzerland.png"
+Country added: (CH) Switzerland
+Database::addCountry = Syria
+Database::addCountryTag = SY = Syria
+"Syria" Loaded to Asset Manager from: "resources/icons/countries/Syria.png"
+Country added: (SY) Syria
+Database::addCountry = South Sudan
+Database::addCountryTag = SS = South Sudan
+"South Sudan" Loaded to Asset Manager from: "resources/icons/countries/South Sudan.png"
+Country added: (SS) South Sudan
+Database::addCountry = Taiwan
+Database::addCountryTag = TW = Taiwan
+"Taiwan" Loaded to Asset Manager from: "resources/icons/countries/Taiwan.png"
+Country added: (TW) Taiwan
+Database::addCountry = Tajikistan
+Database::addCountryTag = TJ = Tajikistan
+"Tajikistan" Loaded to Asset Manager from: "resources/icons/countries/Tajikistan.png"
+Country added: (TJ) Tajikistan
+Database::addCountry = Tanzania
+Database::addCountryTag = TZ = Tanzania
+"Tanzania" Loaded to Asset Manager from: "resources/icons/countries/Tanzania.png"
+Country added: (TZ) Tanzania
+Database::addCountry = Thailand
+Database::addCountryTag = TH = Thailand
+"Thailand" Loaded to Asset Manager from: "resources/icons/countries/Thailand.png"
+Country added: (TH) Thailand
+Database::addCountry = Timor-Leste
+Database::addCountryTag = TL = Timor-Leste
+"Timor-Leste" Loaded to Asset Manager from: "resources/icons/countries/Timor-Leste.png"
+Country added: (TL) Timor-Leste
+Database::addCountry = Togo
+Database::addCountryTag = TG = Togo
+"Togo" Loaded to Asset Manager from: "resources/icons/countries/Togo.png"
+Country added: (TG) Togo
+Database::addCountry = Tokelau
+Database::addCountryTag = TK = Tokelau
+"Tokelau" Loaded to Asset Manager from: "resources/icons/countries/Tokelau.png"
+Country added: (TK) Tokelau
+Database::addCountry = Tonga
+Database::addCountryTag = TO = Tonga
+"Tonga" Loaded to Asset Manager from: "resources/icons/countries/Tonga.png"
+Country added: (TO) Tonga
+Database::addCountry = Trinidad and Tobago
+Database::addCountryTag = TT = Trinidad and Tobago
+"Trinidad and Tobago" Loaded to Asset Manager from: "resources/icons/countries/Trinidad and Tobago.png"
+Country added: (TT) Trinidad and Tobago
+Database::addCountry = Tunisia
+Database::addCountryTag = TN = Tunisia
+"Tunisia" Loaded to Asset Manager from: "resources/icons/countries/Tunisia.png"
+Country added: (TN) Tunisia
+Database::addCountry = Turkey
+Database::addCountryTag = TR = Turkey
+"Turkey" Loaded to Asset Manager from: "resources/icons/countries/Turkey.png"
+Country added: (TR) Turkey
+Database::addCountry = Turkmenistan
+Database::addCountryTag = TM = Turkmenistan
+"Turkmenistan" Loaded to Asset Manager from: "resources/icons/countries/Turkmenistan.png"
+Country added: (TM) Turkmenistan
+Database::addCountry = Turks and Caicos
+Database::addCountryTag = TC = Turks and Caicos
+"Turks and Caicos" Loaded to Asset Manager from: "resources/icons/countries/Turks and Caicos.png"
+Country added: (TC) Turks and Caicos
+Database::addCountry = Tuvalu
+Database::addCountryTag = TV = Tuvalu
+"Tuvalu" Loaded to Asset Manager from: "resources/icons/countries/Tuvalu.png"
+Country added: (TV) Tuvalu
+Database::addCountry = Uganda
+Database::addCountryTag = UG = Uganda
+"Uganda" Loaded to Asset Manager from: "resources/icons/countries/Uganda.png"
+Country added: (UG) Uganda
+Database::addCountry = Ukraine
+Database::addCountryTag = UA = Ukraine
+"Ukraine" Loaded to Asset Manager from: "resources/icons/countries/Ukraine.png"
+Country added: (UA) Ukraine
+Database::addCountry = United Arab Emirates
+Database::addCountryTag = AE = United Arab Emirates
+"United Arab Emirates" Loaded to Asset Manager from: "resources/icons/countries/United Arab Emirates.png"
+Country added: (AE) United Arab Emirates
+Database::addCountry = United Kingdom
+Database::addCountryTag = GB = United Kingdom
+"United Kingdom" Loaded to Asset Manager from: "resources/icons/countries/United Kingdom.png"
+Country added: (GB) United Kingdom
+Database::addCountry = United States
+Database::addCountryTag = US = United States
+"United States" Loaded to Asset Manager from: "resources/icons/countries/United States.png"
+Country added: (US) United States
+Database::addCountry = United States Minor Outlying Islands
+Database::addCountryTag = UM = United States Minor Outlying Islands
+"United States Minor Outlying Islands" Loaded to Asset Manager from: "resources/icons/countries/United States Minor Outlying Islands.png"
+Country added: (UM) United States Minor Outlying Islands
+Database::addCountry = Uruguay
+Database::addCountryTag = UY = Uruguay
+"Uruguay" Loaded to Asset Manager from: "resources/icons/countries/Uruguay.png"
+Country added: (UY) Uruguay
+Database::addCountry = Uzbekistan
+Database::addCountryTag = UZ = Uzbekistan
+"Uzbekistan" Loaded to Asset Manager from: "resources/icons/countries/Uzbekistan.png"
+Country added: (UZ) Uzbekistan
+Database::addCountry = Vanuatu
+Database::addCountryTag = VU = Vanuatu
+"Vanuatu" Loaded to Asset Manager from: "resources/icons/countries/Vanuatu.png"
+Country added: (VU) Vanuatu
+Database::addCountry = Venezuela
+Database::addCountryTag = VE = Venezuela
+"Venezuela" Loaded to Asset Manager from: "resources/icons/countries/Venezuela.png"
+Country added: (VE) Venezuela
+Database::addCountry = Vietnam
+Database::addCountryTag = VN = Vietnam
+"Vietnam" Loaded to Asset Manager from: "resources/icons/countries/Vietnam.png"
+Country added: (VN) Vietnam
+Database::addCountry = British Virgin Islands
+Database::addCountryTag = VG = British Virgin Islands
+"British Virgin Islands" Loaded to Asset Manager from: "resources/icons/countries/British Virgin Islands.png"
+Country added: (VG) British Virgin Islands
+Database::addCountry = U.S. Virgin Islands
+Database::addCountryTag = VI = U.S. Virgin Islands
+"U.S. Virgin Islands" Loaded to Asset Manager from: "resources/icons/countries/U.S. Virgin Islands.png"
+Country added: (VI) U.S. Virgin Islands
+Database::addCountry = Wallis and Futuna
+Database::addCountryTag = WF = Wallis and Futuna
+"Wallis and Futuna" Loaded to Asset Manager from: "resources/icons/countries/Wallis and Futuna.png"
+Country added: (WF) Wallis and Futuna
+Database::addCountry = Western Sahara
+Database::addCountryTag = EH = Western Sahara
+"Western Sahara" Loaded to Asset Manager from: "resources/icons/countries/Western Sahara.png"
+Country added: (EH) Western Sahara
+Database::addCountry = Kosovo
+Database::addCountryTag = XK = Kosovo
+"Kosovo" Loaded to Asset Manager from: "resources/icons/countries/Kosovo.png"
+Country added: (XK) Kosovo
+Database::addCountry = Sint Maarten
+Database::addCountryTag = SX = Sint Maarten
+"Sint Maarten" Loaded to Asset Manager from: "resources/icons/countries/Sint Maarten.png"
+Country added: (SX) Sint Maarten
+Database::addCountry = Yemen
+Database::addCountryTag = YE = Yemen
+"Yemen" Loaded to Asset Manager from: "resources/icons/countries/Yemen.png"
+Country added: (YE) Yemen
+Database::addCountry = Zambia
+Database::addCountryTag = ZM = Zambia
+"Zambia" Loaded to Asset Manager from: "resources/icons/countries/Zambia.png"
+Country added: (ZM) Zambia
+Database::addCountry = Zimbabwe
+Database::addCountryTag = ZW = Zimbabwe
+"Zimbabwe" Loaded to Asset Manager from: "resources/icons/countries/Zimbabwe.png"
+Country added: (ZW) Zimbabwe
+Database::addCountry = Wales
+Database::addCountryTag = WLS = Wales
+"Wales" Loaded to Asset Manager from: "resources/icons/countries/Wales.png"
+Country added: (WLS) Wales
+Database::addCountry = Scotland
+Database::addCountryTag = SCT = Scotland
+"Scotland" Loaded to Asset Manager from: "resources/icons/countries/Scotland.png"
+Country added: (SCT) Scotland
+Database::addCountry = England
+Database::addCountryTag = ENG = England
+"England" Loaded to Asset Manager from: "resources/icons/countries/England.png"
+Country added: (ENG) England
+Database::addCountry = Northern Ireland
+Database::addCountryTag = NIR = Northern Ireland
+"Northern Ireland" Loaded to Asset Manager from: "resources/icons/countries/Northern Ireland.png"
+Country added: (NIR) Northern Ireland
+Database::addCountry = Curacao
+Database::addCountryTag = CW = Curacao
+"Curacao" Loaded to Asset Manager from: "resources/icons/countries/Curacao.png"
+Country added: (CW) Curacao
+Database::addCountry = Caribbean Netherlands
+Database::addCountryTag = BQ = Caribbean Netherlands
+"Caribbean Netherlands" Loaded to Asset Manager from: "resources/icons/countries/Caribbean Netherlands.png"
+Country added: (BQ) Caribbean Netherlands
+Database::addCountry = Catalonia
+Database::addCountryTag = CAT = Catalonia
+"Catalonia" Loaded to Asset Manager from: "resources/icons/countries/Catalonia.png"
+Country added: (CAT) Catalonia
+Database::addCountry = Liberland
+Database::addCountryTag = LL = Liberland
+"Liberland" Loaded to Asset Manager from: "resources/icons/countries/Liberland.png"
+Country added: (LL) Liberland
+Database::addCountry = Somaliland
+Database::addCountryTag = SML = Somaliland
+"Somaliland" Loaded to Asset Manager from: "resources/icons/countries/Somaliland.png"
+Country added: (SML) Somaliland
+Database::addCountry = Northern Cyprus
+Database::addCountryTag = KK = Northern Cyprus
+"Northern Cyprus" Loaded to Asset Manager from: "resources/icons/countries/Northern Cyprus.png"
+Country added: (KK) Northern Cyprus
+Database::addCountry = Knights of Malta
+Database::addCountryTag = KOM = Knights of Malta
+"Knights of Malta" Loaded to Asset Manager from: "resources/icons/countries/Knights of Malta.png"
+Country added: (KOM) Knights of Malta
+Database::addCountry = Seborga
+Database::addCountryTag = SEB = Seborga
+"Seborga" Loaded to Asset Manager from: "resources/icons/countries/Seborga.png"
+Country added: (SEB) Seborga
+Database::addCountry = Lugansk
+Database::addCountryTag = LG = Lugansk
+"Lugansk" Loaded to Asset Manager from: "resources/icons/countries/Lugansk.png"
+Country added: (LG) Lugansk
+Database::addCountry = Donetsk
+Database::addCountryTag = DN = Donetsk
+"Donetsk" Loaded to Asset Manager from: "resources/icons/countries/Donetsk.png"
+Country added: (DN) Donetsk
+Database::addCountry = Transnistria
+Database::addCountryTag = TS = Transnistria
+"Transnistria" Loaded to Asset Manager from: "resources/icons/countries/Transnistria.png"
+Country added: (TS) Transnistria
+Database::addCountry = South Ossetia
+Database::addCountryTag = OST = South Ossetia
+"South Ossetia" Loaded to Asset Manager from: "resources/icons/countries/South Ossetia.png"
+Country added: (OST) South Ossetia
+Database::addCountry = Sealand
+Database::addCountryTag = SEA = Sealand
+"Sealand" Loaded to Asset Manager from: "resources/icons/countries/Sealand.png"
+Country added: (SEA) Sealand
+Database::addCountry = Abkhazia
+Database::addCountryTag = AB = Abkhazia
+"Abkhazia" Loaded to Asset Manager from: "resources/icons/countries/Abkhazia.png"
+Country added: (AB) Abkhazia
+Database::addCountry = Artsakh
+Database::addCountryTag = AK = Artsakh
+"Artsakh" Loaded to Asset Manager from: "resources/icons/countries/Artsakh.png"
+Country added: (AK) Artsakh
+Database::addCountry = Hutt River
+Database::addCountryTag = HTR = Hutt River
+"Hutt River" Loaded to Asset Manager from: "resources/icons/countries/Hutt River.png"
+Country added: (HTR) Hutt River
+Database::getLeaguesToLoading
+Database::getLeaguesToLoading
+"CBLOL" Loaded to Asset Manager from: "resources/icons/leagues/CBLOL.png"
+Database::getLeaguesToLoading
+Database::getLeaguesToLoading
+"Circuitao" Loaded to Asset Manager from: "resources/icons/leagues/Circuitao.png"
+Database::getLeaguesToLoading
+Database::getLeaguesToLoading
+"LCS" Loaded to Asset Manager from: "resources/icons/leagues/LCS.png"
+Database::getLeaguesToLoading
+"Flamengo" Loaded to Asset Manager from: "resources/icons/logos/Flamengo.png"
+"INTZ" Loaded to Asset Manager from: "resources/icons/logos/INTZ.png"
+"paiN" Loaded to Asset Manager from: "resources/icons/logos/paiN.png"
+"FURIA Uppercut" Loaded to Asset Manager from: "resources/icons/logos/FURIA Uppercut.png"
+"KaBuM!" Loaded to Asset Manager from: "resources/icons/logos/KaBuM!.png"
+"Prodigy" Loaded to Asset Manager from: "resources/icons/logos/Prodigy.png"
+"Redemption" Loaded to Asset Manager from: "resources/icons/logos/Redemption.png"
+"Keyd" Loaded to Asset Manager from: "resources/icons/logos/Keyd.png"
+"Falkol" Loaded to Asset Manager from: "resources/icons/logos/Falkol.png"
+"RED Canids" Loaded to Asset Manager from: "resources/icons/logos/RED Canids.png"
+"100 Thieves" Loaded to Asset Manager from: "resources/icons/logos/100 Thieves.png"
+"XeroFace" Loaded to Asset Manager from: "resources/icons/faces/Xero.png"
+"DionrrayFace" Loaded to Asset Manager from: "resources/icons/faces/Dionrray.png"
+"YangFace" Loaded to Asset Manager from: "resources/icons/faces/Yang.png"
+"SeongHwanFace" Loaded to Asset Manager from: "resources/icons/faces/SeongHwan.png"
+"tinownsFace" Loaded to Asset Manager from: "resources/icons/faces/tinowns.png"
+"brTTFace" Loaded to Asset Manager from: "resources/icons/faces/brTT.png"
+"KeyFace" Loaded to Asset Manager from: "resources/icons/faces/Key.png"
+"KamiFace" Loaded to Asset Manager from: "resources/icons/faces/Kami.png"
+"MestreFace" NOT loaded to Asset Manager from: "resources/icons/faces/Mestre.png" (Missing Texture applied)
+"DioudFace" NOT loaded to Asset Manager from: "resources/icons/faces/Dioud.png" (Missing Texture applied)
+"RangerFace" Loaded to Asset Manager from: "resources/icons/faces/Ranger.png"
+"GokuFace" Loaded to Asset Manager from: "resources/icons/faces/Goku.png"
+"WoofeFace" Loaded to Asset Manager from: "resources/icons/faces/Woofe.png"
+"AbsolutFace" NOT loaded to Asset Manager from: "resources/icons/faces/Absolut.png" (Missing Texture applied)
+"LuciFace" NOT loaded to Asset Manager from: "resources/icons/faces/Luci.png" (Missing Texture applied)
+"VvertFace" NOT loaded to Asset Manager from: "resources/icons/faces/Vvert.png" (Missing Texture applied)
+"wyLLFace" NOT loaded to Asset Manager from: "resources/icons/faces/wyLL.png" (Missing Texture applied)
+"AslanFace" NOT loaded to Asset Manager from: "resources/icons/faces/Aslan.png" (Missing Texture applied)
+"JoJoFace" Loaded to Asset Manager from: "resources/icons/faces/JoJo.png"
+"DjokoFace" NOT loaded to Asset Manager from: "resources/icons/faces/Djoko.png" (Missing Texture applied)
+"StardustFace" NOT loaded to Asset Manager from: "resources/icons/faces/Stardust.png" (Missing Texture applied)
+"RevenFace" NOT loaded to Asset Manager from: "resources/icons/faces/Reven.png" (Missing Texture applied)
+"RoboFace" Loaded to Asset Manager from: "resources/icons/faces/Robo.png"
+"GrellFace" Loaded to Asset Manager from: "resources/icons/faces/Grell.png"
+"CaosFace" NOT loaded to Asset Manager from: "resources/icons/faces/Caos.png" (Missing Texture applied)
+"NOsFerusFace" NOT loaded to Asset Manager from: "resources/icons/faces/NOsFerus.png" (Missing Texture applied)
+"AtlantaFace" NOT loaded to Asset Manager from: "resources/icons/faces/Atlanta.png" (Missing Texture applied)
+"KlausFace" NOT loaded to Asset Manager from: "resources/icons/faces/Klaus.png" (Missing Texture applied)
+"DropFace" NOT loaded to Asset Manager from: "resources/icons/faces/Drop.png" (Missing Texture applied)
+"ProfessorFace" NOT loaded to Asset Manager from: "resources/icons/faces/Professor.png" (Missing Texture applied)
+"TurtleFace" NOT loaded to Asset Manager from: "resources/icons/faces/Turtle.png" (Missing Texture applied)
+"BeellzYFace" NOT loaded to Asset Manager from: "resources/icons/faces/BeellzY.png" (Missing Texture applied)
+"TayFace" Loaded to Asset Manager from: "resources/icons/faces/Tay.png"
+"ShiniFace" Loaded to Asset Manager from: "resources/icons/faces/Shini.png"
+"EnvyFace" Loaded to Asset Manager from: "resources/icons/faces/Envy.png"
+"micaOFace" Loaded to Asset Manager from: "resources/icons/faces/micaO.png"
+"JocksterFace" Loaded to Asset Manager from: "resources/icons/faces/Jockster.png"
+"TianciFace" Loaded to Asset Manager from: "resources/icons/faces/Tianci.png"
+"MillsFace" Loaded to Asset Manager from: "resources/icons/faces/Mills.png"
+"ZuaoFace" Loaded to Asset Manager from: "resources/icons/faces/Zuao.png"
+"MayumiFace" Loaded to Asset Manager from: "resources/icons/faces/Mayumi.png"
+"RedBertFace" Loaded to Asset Manager from: "resources/icons/faces/RedBert.png"
+"HauzFace" NOT loaded to Asset Manager from: "resources/icons/faces/Hauz.png" (Missing Texture applied)
+"AoshiFace" NOT loaded to Asset Manager from: "resources/icons/faces/Aoshi.png" (Missing Texture applied)
+"AceFace" NOT loaded to Asset Manager from: "resources/icons/faces/Ace.png" (Missing Texture applied)
+"YatsuFace" NOT loaded to Asset Manager from: "resources/icons/faces/Yatsu.png" (Missing Texture applied)
+"MaestroFace" NOT loaded to Asset Manager from: "resources/icons/faces/Maestro.png" (Missing Texture applied)
+"ONMETAFace" NOT loaded to Asset Manager from: "resources/icons/faces/ONMETA.png" (Missing Texture applied)
+"jUcFace" NOT loaded to Asset Manager from: "resources/icons/faces/jUc.png" (Missing Texture applied)
+"ParangFace" NOT loaded to Asset Manager from: "resources/icons/faces/Parang.png" (Missing Texture applied)
+"WizFace" NOT loaded to Asset Manager from: "resources/icons/faces/Wiz.png" (Missing Texture applied)
+"TutszFace" NOT loaded to Asset Manager from: "resources/icons/faces/Tutsz.png" (Missing Texture applied)
+"DudsTheBoyFace" NOT loaded to Asset Manager from: "resources/icons/faces/DudsTheBoy.png" (Missing Texture applied)
+"CeosFace" NOT loaded to Asset Manager from: "resources/icons/faces/Ceos.png" (Missing Texture applied)
+"BankaiFace" NOT loaded to Asset Manager from: "resources/icons/faces/Bankai.png" (Missing Texture applied)
+"MoustyFace" NOT loaded to Asset Manager from: "resources/icons/faces/Mousty.png" (Missing Texture applied)
+"DisaveFace" NOT loaded to Asset Manager from: "resources/icons/faces/Disave.png" (Missing Texture applied)
+"ProDeltaFace" NOT loaded to Asset Manager from: "resources/icons/faces/ProDelta.png" (Missing Texture applied)
+"KakeFace" NOT loaded to Asset Manager from: "resources/icons/faces/Kake.png" (Missing Texture applied)
+"AbaxialFace" NOT loaded to Asset Manager from: "resources/icons/faces/Abaxial.png" (Missing Texture applied)
+"FitzFace" NOT loaded to Asset Manager from: "resources/icons/faces/Fitz.png" (Missing Texture applied)
+"TyrinFace" NOT loaded to Asset Manager from: "resources/icons/faces/Tyrin.png" (Missing Texture applied)
+"MinervaFace" NOT loaded to Asset Manager from: "resources/icons/faces/Minerva.png" (Missing Texture applied)
+"StingFace" NOT loaded to Asset Manager from: "resources/icons/faces/Sting.png" (Missing Texture applied)
+"AnyyyFace" NOT loaded to Asset Manager from: "resources/icons/faces/Anyyy.png" (Missing Texture applied)
+"AlternativeFace" NOT loaded to Asset Manager from: "resources/icons/faces/Alternative.png" (Missing Texture applied)
+"DamageFace" NOT loaded to Asset Manager from: "resources/icons/faces/Damage.png" (Missing Texture applied)
+"StepzFace" NOT loaded to Asset Manager from: "resources/icons/faces/Stepz.png" (Missing Texture applied)
+"ScrappyDooFace" NOT loaded to Asset Manager from: "resources/icons/faces/ScrappyDoo.png" (Missing Texture applied)
+"PiroxzFace" NOT loaded to Asset Manager from: "resources/icons/faces/Piroxz.png" (Missing Texture applied)
+"fNbFace" NOT loaded to Asset Manager from: "resources/icons/faces/fNb.png" (Missing Texture applied)
+"YampiFace" NOT loaded to Asset Manager from: "resources/icons/faces/Yampi.png" (Missing Texture applied)
+"AlonedFace" NOT loaded to Asset Manager from: "resources/icons/faces/Aloned.png" (Missing Texture applied)
+"GaroFace" NOT loaded to Asset Manager from: "resources/icons/faces/Garo.png" (Missing Texture applied)
+"WosFace" NOT loaded to Asset Manager from: "resources/icons/faces/Wos.png" (Missing Texture applied)
+"maszcaFace" NOT loaded to Asset Manager from: "resources/icons/faces/maszca.png" (Missing Texture applied)
+"KalecFace" NOT loaded to Asset Manager from: "resources/icons/faces/Kalec.png" (Missing Texture applied)
+"AlocsFace" NOT loaded to Asset Manager from: "resources/icons/faces/Alocs.png" (Missing Texture applied)
+"NyuFace" NOT loaded to Asset Manager from: "resources/icons/faces/Nyu.png" (Missing Texture applied)
+"SephisFace" NOT loaded to Asset Manager from: "resources/icons/faces/Sephis.png" (Missing Texture applied)
+"BalKhanFace" NOT loaded to Asset Manager from: "resources/icons/faces/BalKhan.png" (Missing Texture applied)
+"KrastyelFace" NOT loaded to Asset Manager from: "resources/icons/faces/Krastyel.png" (Missing Texture applied)
+"PatrickFace" NOT loaded to Asset Manager from: "resources/icons/faces/Patrick.png" (Missing Texture applied)
+"BocaJRFace" NOT loaded to Asset Manager from: "resources/icons/faces/BocaJR.png" (Missing Texture applied)
+"GlowcoreFace" NOT loaded to Asset Manager from: "resources/icons/faces/Glowcore.png" (Missing Texture applied)
+"RivaFace" NOT loaded to Asset Manager from: "resources/icons/faces/Riva.png" (Missing Texture applied)
+"AithusaFace" NOT loaded to Asset Manager from: "resources/icons/faces/Aithusa.png" (Missing Texture applied)
+"ScuroFace" NOT loaded to Asset Manager from: "resources/icons/faces/Scuro.png" (Missing Texture applied)
+"VonFace" NOT loaded to Asset Manager from: "resources/icons/faces/Von.png" (Missing Texture applied)
+"NishikinoFace" NOT loaded to Asset Manager from: "resources/icons/faces/Nishikino.png" (Missing Texture applied)
+"AyelFace" NOT loaded to Asset Manager from: "resources/icons/faces/Ayel.png" (Missing Texture applied)
+"SsumdayFace" NOT loaded to Asset Manager from: "resources/icons/faces/Ssumday.png" (Missing Texture applied)
+"MeteosFace" NOT loaded to Asset Manager from: "resources/icons/faces/Meteos.png" (Missing Texture applied)
+"RyomaFace" NOT loaded to Asset Manager from: "resources/icons/faces/Ryoma.png" (Missing Texture applied)
+"Cody SunFace" NOT loaded to Asset Manager from: "resources/icons/faces/Cody Sun.png" (Missing Texture applied)
+"StuntFace" NOT loaded to Asset Manager from: "resources/icons/faces/Stunt.png" (Missing Texture applied)
+"ZikzFace" NOT loaded to Asset Manager from: "resources/icons/faces/Zikz.png" (Missing Texture applied)
+"JungleJuiceFace" NOT loaded to Asset Manager from: "resources/icons/faces/JungleJuice.png" (Missing Texture applied)
+"Close Button" Loaded to Asset Manager from: "resources/textures/Close Button.png"
+"Play Button" Loaded to Asset Manager from: "resources/textures/Play Button.png"
+"coach" Loaded to Asset Manager from: "resources/icons/coach.png"
+"top" Loaded to Asset Manager from: "resources/icons/top.png"
+"jg" Loaded to Asset Manager from: "resources/icons/jg.png"
+"mid" Loaded to Asset Manager from: "resources/icons/mid.png"
+"adc" Loaded to Asset Manager from: "resources/icons/adc.png"
+"sup" Loaded to Asset Manager from: "resources/icons/sup.png"
+"calendarIcon" Loaded to Asset Manager from: "resources/icons/calendarIcon.png"
+"standingsIcon" Loaded to Asset Manager from: "resources/icons/standingsIcon.png"
+"financesIcon" Loaded to Asset Manager from: "resources/icons/financesIcon.png"
+"marketIcon" Loaded to Asset Manager from: "resources/icons/marketIcon.png"
+"saveIcon" Loaded to Asset Manager from: "resources/icons/saveIcon.png"
+"exitIcon" Loaded to Asset Manager from: "resources/icons/exitIcon.png"
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (CBLOL)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (Circuitao)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (LCS)
+Database::getLeaguesToLoading
+Database::getLeague
+"LCS" request: Returned
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (CBLOL)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (Circuitao)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (LCS)
+Database::getLeaguesToLoading
+Database::getLeague
+"LCS" request: Returned
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (CBLOL)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (Circuitao)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (LCS)
+Database::getLeaguesToLoading
+Database::getLeague
+"LCS" request: Returned
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (CBLOL)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (Circuitao)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (LCS)
+Database::getLeaguesToLoading
+Database::getLeague
+"LCS" request: Returned
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (CBLOL)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (Circuitao)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (LCS)
+Database::getLeaguesToLoading
+Database::getLeague
+"LCS" request: Returned
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (CBLOL)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (Circuitao)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (LCS)
+Database::getLeaguesToLoading
+Database::getLeague
+"LCS" request: Returned
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (CBLOL)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (Circuitao)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (LCS)
+Database::getLeaguesToLoading
+Database::getLeague
+"LCS" request: Returned
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (CBLOL)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (Circuitao)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (LCS)
+Database::getLeaguesToLoading
+Database::getLeague
+"LCS" request: Returned
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (CBLOL)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (Circuitao)
+Database::getLeaguesToLoading
+Database::getTeamsinLeague (LCS)
+Database::getLeaguesToLoading
+Database::getLeague
+"LCS" request: Returned
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+Database::getCountryByTeam
+"100 Thieves" request: Returned
+"United States" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Stunt = 65
+Cody Sun = 65
+Ryoma = 60
+Meteos = 65
+Ssumday = 70
+	 Select Team State
+"Right Arrow" Loaded to Asset Manager from: "resources/textures/Right Arrow.png"
+"Left Arrow" Loaded to Asset Manager from: "resources/textures/Left Arrow.png"
+"Team Logo Background" Loaded to Asset Manager from: "resources/textures/Team Logo Background.png"
+"Left Arrow" request: Returned
+"Right Arrow" request: Returned
+"Left Arrow" request: Returned
+"Right Arrow" request: Returned
+"Play Button" request: Returned
+"100 Thieves" request: Returned
+"Team Logo Background" request: Returned
+"LCS" request: Returned
+"United States" request: Returned
+Database::getLeague
+"CBLOL" request: Returned
+Database::getCountryByTeam
+"KaBuM!" request: Returned
+"Brazil" request: Returned
+Database::getTeam
+Team::getTeamHability()
+Ceos = 45
+DudsTheBoy = 45
+Tutsz = 40
+Wiz = 45
+Parang = 50

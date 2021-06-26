@@ -1,0 +1,16 @@
+<<
+DRRP-4 = Double Round Robin with Playoffs (CBLOL,Circuitao)
+RRP-4 = Round Robin with Playoffs
+P = PlayOff
+
+-5 = Dash if have Playoff, to assign the number of Teams Qualified (5 in this example)
+>>
+
+#Name;		Region;	IsFranchise?	TwoSplits?	Tier;		Format;		Teams in Start;
+
+CBLOL;		BR;	true;		true;		tier 1;		DRRP-4;		(Flamengo,FURIA Uppercut,INTZ,KaBuM!,paiN,Prodigy,Redemption,Keyd);
+Circuitao;	BR;	true;		true;		tier 2;		DRRP-4;		(Falkol,Havan Liberty,Intergalaxy Tigers,RED Canids,Santos,Team oNe);
+#LLA;		LAT;	true;		true;		tier 1;		DRRP-4;		(Infinity,All Knights,Rainbow7,Isurus,XTEN,Pixel,Azules,Furious);
+LCS;		NA;	true;		true;		tier 1;		DRRP-6;		(100 Thieves,Cloud9,CLG,Dignitas,Evil Geniuses,FlyQuest,Golden Guardians,Immortals,Team Liquid,Team SoloMid);
+#LEC;		EU;	true;		true;		tier 1;		DRRP-6;		(G2,Fnatic,Origen,MAD Lions,Misfits,Rogue,Excel,FC Schalke 04,SK Gaming,Team Vitality);
+#Worlds		INT;	false;		false;		worlds;		P;		();

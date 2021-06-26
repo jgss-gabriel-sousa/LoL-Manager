@@ -1,0 +1,7 @@
+Curto Prazo:
+TeamMenu
+Market - ViewOtherTeams - Ranks - Classification
+Matches
+
+Longo Prazo:
+Implementar o DEFINITIONS.H em arquivo txt

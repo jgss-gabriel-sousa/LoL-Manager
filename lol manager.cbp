@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Lol Manager" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="States\;States\headers\;" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/sfml test" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++1y" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="sfml-graphics" />
+					<Add library="sfml-audio" />
+					<Add library="sfml-network" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="include/AssetManager.h" />
+		<Unit filename="include/ClassificationState.h">
+			<Option virtualFolder="States/headers/" />
+		</Unit>
+		<Unit filename="include/DEFINITIONS.h" />
+		<Unit filename="include/Database.h" />
+		<Unit filename="include/EditorState.h">
+			<Option virtualFolder="States/headers/" />
+		</Unit>
+		<Unit filename="include/GUI.h" />
+		<Unit filename="include/Game.h" />
+		<Unit filename="include/InputManager.h" />
+		<Unit filename="include/League.h" />
+		<Unit filename="include/LoadingState.h">
+			<Option virtualFolder="States/headers/" />
+		</Unit>
+		<Unit filename="include/MainMenuState.h">
+			<Option virtualFolder="States/headers/" />
+		</Unit>
+		<Unit filename="include/Player.h" />
+		<Unit filename="include/SelectTeamState.h">
+			<Option virtualFolder="States/headers/" />
+		</Unit>
+		<Unit filename="include/SplashState.h">
+			<Option virtualFolder="States/headers/" />
+		</Unit>
+		<Unit filename="include/State.h" />
+		<Unit filename="include/StateMachine.h" />
+		<Unit filename="include/Team.h" />
+		<Unit filename="include/TeamMenuState.h">
+			<Option virtualFolder="States/headers/" />
+		</Unit>
+		<Unit filename="include/log.h" />
+		<Unit filename="sfml-audio-2.dll" />
+		<Unit filename="sfml-graphics-2.dll" />
+		<Unit filename="sfml-network-2.dll" />
+		<Unit filename="sfml-system-2.dll" />
+		<Unit filename="sfml-window-2.dll" />
+		<Unit filename="src/AssetManager.cpp" />
+		<Unit filename="src/ClassificationState.cpp">
+			<Option virtualFolder="States/" />
+		</Unit>
+		<Unit filename="src/Database-FileLoader.cpp" />
+		<Unit filename="src/Database-Getters.cpp" />
+		<Unit filename="src/Database.cpp" />
+		<Unit filename="src/EditorState.cpp">
+			<Option virtualFolder="States/" />
+		</Unit>
+		<Unit filename="src/GUI.cpp" />
+		<Unit filename="src/Game.cpp" />
+		<Unit filename="src/InputManager.cpp" />
+		<Unit filename="src/League.cpp" />
+		<Unit filename="src/LoadingState.cpp">
+			<Option virtualFolder="States/" />
+		</Unit>
+		<Unit filename="src/MainMenuState.cpp">
+			<Option virtualFolder="States/" />
+		</Unit>
+		<Unit filename="src/Player.cpp" />
+		<Unit filename="src/SelectTeamState.cpp">
+			<Option virtualFolder="States/" />
+		</Unit>
+		<Unit filename="src/SplashState.cpp">
+			<Option virtualFolder="States/" />
+		</Unit>
+		<Unit filename="src/StateMachine.cpp" />
+		<Unit filename="src/Team.cpp" />
+		<Unit filename="src/TeamMenuState.cpp">
+			<Option virtualFolder="States/" />
+		</Unit>
+		<Unit filename="src/log.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
