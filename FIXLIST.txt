@@ -1,1 +1,0 @@
--Adicionar Paradigma de camadas
