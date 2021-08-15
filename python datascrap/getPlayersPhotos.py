@@ -14,11 +14,11 @@ def get_filename_url_to_open(site, filename, player, size=None):
     parse_result_text = result['parse']['text']['*']
 
     url = re.match(pattern, parse_result_text)[1]
-    folder = "G:\GIT\LoL-Manager\python datascrap\player images\\"
+    folder = "G:\GIT\LoL-Manager\python datascrap\data\player images\\"
     urllib.request.urlretrieve(url, folder + player + '.png')
 
 def imagesManipulation(player):
-    path = "G:\GIT\LoL-Manager\python datascrap\player images\\"
+    path = "G:\GIT\LoL-Manager\python datascrap\data\player images\\"
     image = Image.open(path+player+'.png')
 
     #resize
