@@ -4,4 +4,4 @@
 *.depend
 *.ini
 *.log
-/python datascrap/data
+Development Data/python datascrap/data

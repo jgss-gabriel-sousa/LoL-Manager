@@ -1,0 +1,1 @@
+This folder contains data to guide the game development.
