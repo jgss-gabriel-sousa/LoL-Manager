@@ -1,0 +1,4 @@
+Average LCS player salary 
+
+2020 = $410.000
+2017 = $105.000
