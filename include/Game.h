@@ -4,7 +4,7 @@
 #include <string>
 #include <SFML/Graphics.hpp>
 #include <sstream>
-#include "log.h"
+#include "Log.h"
 
 #include "StateMachine.h"
 #include "AssetManager.h"

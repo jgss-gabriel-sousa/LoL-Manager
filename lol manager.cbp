@@ -2,14 +2,14 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Lol Manager" />
+		<Option title="LoL Manager" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Option virtualFolders="States\;States\headers\;" />
 		<Build>
 			<Target title="Release">
 				<Option output="LoL Manager" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj/Release/" />
+				<Option object_output="obj/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -46,6 +46,7 @@
 		<Unit filename="include/LoadingState.h">
 			<Option virtualFolder="States/headers/" />
 		</Unit>
+		<Unit filename="include/Log.h" />
 		<Unit filename="include/MainMenuState.h">
 			<Option virtualFolder="States/headers/" />
 		</Unit>
@@ -62,7 +63,6 @@
 		<Unit filename="include/TeamMenuState.h">
 			<Option virtualFolder="States/headers/" />
 		</Unit>
-		<Unit filename="include/log.h" />
 		<Unit filename="sfml-audio-2.dll" />
 		<Unit filename="sfml-graphics-2.dll" />
 		<Unit filename="sfml-network-2.dll" />
@@ -85,6 +85,7 @@
 		<Unit filename="src/LoadingState.cpp">
 			<Option virtualFolder="States/" />
 		</Unit>
+		<Unit filename="src/Log.cpp" />
 		<Unit filename="src/MainMenuState.cpp">
 			<Option virtualFolder="States/" />
 		</Unit>
@@ -100,7 +101,6 @@
 		<Unit filename="src/TeamMenuState.cpp">
 			<Option virtualFolder="States/" />
 		</Unit>
-		<Unit filename="src/log.cpp" />
 		<Unit filename="src/main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

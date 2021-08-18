@@ -5,7 +5,7 @@
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
 #include "DEFINITIONS.h"
-#include "log.h"
+#include "Log.h"
 
 class AssetManager{
 public:

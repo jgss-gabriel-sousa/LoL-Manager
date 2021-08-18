@@ -1,4 +1,4 @@
-#include "log.h"
+#include "Log.h"
 
 vector<string> vectorLog;
 
@@ -21,7 +21,7 @@ void LogWrite(){
         ofstream file;
         string line;
 
-        file.open("log.txt");
+        file.open("log.log");
 
         // get actual date
         time_t t = time(0);

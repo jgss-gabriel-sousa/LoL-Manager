@@ -4,7 +4,7 @@
 #include <algorithm>
 
 #include "team.h"
-#include "log.h"
+#include "Log.h"
 
 using namespace std;
 
