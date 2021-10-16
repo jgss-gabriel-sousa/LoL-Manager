@@ -13,10 +13,6 @@ PlayerIcons::PlayerIcons(GameDataRef data, string playerName, Team* team) : _dat
 
     player = _data->database.getPlayer(playerName);
 
-    face.setTexture(&_data->assets.GetTexture(playerName+"Face"),true);
-
-    //country.setTexture(&_data->assets.GetTexture(_data->database.getPlayerByName(name).nationality),true);
-
     if(actualTeam->getPlayerStatus(playerName).find("inLoan") != string::npos)
         name.setFillColor(DARK_GREEN);
     else
@@ -26,6 +22,9 @@ PlayerIcons::PlayerIcons(GameDataRef data, string playerName, Team* team) : _dat
     name.setString(playerName);
     name.setFont(_data->assets.GetFont("Arial"));
     name.setOrigin(0,name.getGlobalBounds().height/2);
+
+    face.setTexture(&_data->assets.GetTexture(playerName+"Face"),true);
+    country.setTexture(&_data->assets.GetTexture(_data->database.getPlayerByName(name).nationality),true);
 
     lane.setSize(sf::Vector2f(30,30));
     lane.setTexture(&_data->assets.GetTexture(player.lane),true);
@@ -48,6 +47,7 @@ void PlayerIcons::UpdateAndDraw(){
 
 void TeamMenuState::Init(){
     LogPush("\t TeamMenuState");
+
     teamLogo.setSize(sf::Vector2f(SCREEN_WIDTH*0.125,SCREEN_WIDTH*0.125));
     teamLogo.setOutlineColor(sf::Color::White);
     teamLogo.setOutlineThickness(1);
@@ -57,21 +57,27 @@ void TeamMenuState::Init(){
     calendarIcon.setPosition(teamLogo.getPosition().x+teamLogo.getGlobalBounds().width+(SCREEN_WIDTH*0.025),0);
     calendarIcon.setSize(sf::Vector2f(SCREEN_HEIGHT*0.083,SCREEN_HEIGHT*0.083));
     calendarIcon.setTexture(&_data->assets.GetTexture("calendarIcon"),true);
+
     standingsIcon.setPosition(calendarIcon.getPosition().x+calendarIcon.getGlobalBounds().width+(SCREEN_WIDTH*0.025),0);
     standingsIcon.setSize(sf::Vector2f(SCREEN_HEIGHT*0.083,SCREEN_HEIGHT*0.083));
     standingsIcon.setTexture(&_data->assets.GetTexture("standingsIcon"),true);
+
     financesIcon.setPosition(standingsIcon.getPosition().x+standingsIcon.getGlobalBounds().width+(SCREEN_WIDTH*0.025),0);
     financesIcon.setSize(sf::Vector2f(SCREEN_HEIGHT*0.083,SCREEN_HEIGHT*0.083));
     financesIcon.setTexture(&_data->assets.GetTexture("financesIcon"),true);
+
     marketIcon.setPosition(financesIcon.getPosition().x+financesIcon.getGlobalBounds().width+(SCREEN_WIDTH*0.025),0);
     marketIcon.setSize(sf::Vector2f(SCREEN_HEIGHT*0.083,SCREEN_HEIGHT*0.083));
     marketIcon.setTexture(&_data->assets.GetTexture("marketIcon"),true);
+
     saveIcon.setSize(sf::Vector2f(SCREEN_HEIGHT*0.083,SCREEN_HEIGHT*0.083));
     saveIcon.setPosition(SCREEN_WIDTH-saveIcon.getGlobalBounds().width-(SCREEN_WIDTH*0.025),0);
     saveIcon.setTexture(&_data->assets.GetTexture("saveIcon"),true);
+
     exitIcon.setSize(sf::Vector2f(SCREEN_HEIGHT*0.083,SCREEN_HEIGHT*0.083));
     exitIcon.setPosition(saveIcon.getPosition().x-exitIcon.getGlobalBounds().width-(SCREEN_WIDTH*0.025),0);
     exitIcon.setTexture(&_data->assets.GetTexture("exitIcon"),true);
+
     playIcon.setSize(sf::Vector2f(SCREEN_HEIGHT*0.166,SCREEN_HEIGHT*0.083));
     playIcon.setPosition((SCREEN_WIDTH*0.025),SCREEN_HEIGHT-(playIcon.getSize().y)-(SCREEN_WIDTH*0.025));
     playIcon.setTexture(&_data->assets.GetTexture("button"),true);
@@ -121,6 +127,14 @@ void TeamMenuState::Init(){
     floatingHelpText.setFont(_data->assets.GetFont("Arial"));
     floatingHelpText.setFillColor(sf::Color::Black);
     floatingHelpText.setCharacterSize(SCREEN_HEIGHT*0.026);
+
+    savegameNameBox.setFillColor(sf::Color::White);
+    savegameNameBox.setOutlineColor(sf::Color::Black);
+    savegameNameBox.setSize(sf::Vector2f(1,2));
+
+    savegameNameText.setFont(_data->assets.GetFont("Arial"));
+    savegameNameText.setFillColor(sf::Color::Black);
+    savegameNameText.setCharacterSize(SCREEN_HEIGHT*0.026);
 }
 
 
@@ -351,7 +365,7 @@ void TeamMenuState::Save(){
 
 
 void TeamMenuState::Exit(){
-    //Add Message to Save Game
+    //Add warning message for user Save game
     _data->machine.AddState(StateRef(new SelectTeamState(_data)),true);
 }
 
