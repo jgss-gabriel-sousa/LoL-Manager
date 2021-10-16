@@ -39,9 +39,10 @@ def SaveGamesDataFrame(data, filePath):
     data.to_csv(filePath, index = None)
 
 
-StartDate = date.today()-timedelta(days=365)
+StartDate = date.fromisoformat(str(date.today().year)+"-01-01")-timedelta(days=1)
+#StartDate = date.today()-timedelta(days=1)
 
 gamesDF = GetGamesToDataFrame(StartDate)
 
-filePath = r"G:\GIT\LoL-Manager\python datascrap\data\games\games.csv"
+filePath = r"G:\GIT\LoL-Manager\Development Data\python datascrap\data\games\games.csv"
 SaveGamesDataFrame(gamesDF, filePath)
